@@ -6,12 +6,22 @@
     },
     "PYPL": {
         "name": "PayPal Holdings, Inc.",
-        "ideal_timeframes": ["short"],
+        "ideal_timeframes": ["short", "medium"],
         "ideal_risk": ["high"]
     }, 
     "NVDA": {
         "name": "NVIDIA Corporation",
         "ideal_timeframes": ["medium", "long"],
         "ideal_risk": ["medium"]
+    },
+    "TSLA": {
+        "name": "Tesla, Inc.",
+        "ideal_timeframes": ["short", "medium", "long"],
+        "ideal_risk": ["high"]
+    },
+    "COST": {
+        "name": "Costco Wholesale Corporation",
+        "ideal_timeframes": ["short"],
+        "ideal_risk": ["mediu"]
     }
 }
