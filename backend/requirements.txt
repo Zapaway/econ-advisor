@@ -6,5 +6,6 @@ torch
 sentence_transformers
 streamlit
 predictionguard
+vertexai
 urllib
-beautifulsoup4 
+beautifulsoup4
