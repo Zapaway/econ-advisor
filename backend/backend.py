@@ -74,7 +74,7 @@ def summarizeText(text_to_summarize, MAX_OUTPUT_TOKENS=128):
 
 	# Tokenize our text
 	# If you want to run the code in Tensorflow, please remember to return the particular tensors as simply as using return_tensors = 'tf'
-	input_ids = tokenizer(text_to_summarize, return_tensors="pt", truncate = True, max_length=480).input_ids
+	input_ids = tokenizer(text_to_summarize, return_tensors="pt", truncation = True, max_length=480).input_ids
 
 	# Generate the output (Here, we use beam search but you can also use any other strategy you like)
 	output = model.generate(
@@ -84,11 +84,11 @@ def summarizeText(text_to_summarize, MAX_OUTPUT_TOKENS=128):
 	    early_stopping=True
 	)
 
-	sentiment_pipeline = pipeline("text-classification")  #Pretty much all we need but still experimenting with it
-	sentiment_result = sentiment_pipeline(article_body)
+	# sentiment_pipeline = pipeline("text-classification")  #Pretty much all we need but still experimenting with it
+	# sentiment_result = sentiment_pipeline(article_body)
 
 	# Finally, we can print the generated summary
-	return (tokenizer.decode(output[0], skip_special_tokens=False), sentiment_result)
+	return tokenizer.decode(output[0], skip_special_tokens=False)#, sentiment_result)[0]
 	# Generated Output: Saudi bank to pay a 3.5% premium to Samba share price. Gulf region’s third-largest lender will have total assets of $220 billion
 
 def getJawandArticle(ticker:str):
@@ -173,7 +173,10 @@ def getTickers():
 	for ticker in data:
 		ticker_data = data[ticker]
 		if risk in ticker_data['risk'] and timeframe in ticker_data['timeframe']:
-			valid_tickers.append({ticker: ticker_data['name']})
+			valid_tickers.append({
+				"ticker": ticker,
+				"name": ticker_data['name']
+			})
 	return valid_tickers
 	
 
