@@ -131,7 +131,14 @@ def getJawandStats(ticker:str):
 			return_str += f"It has a total debt of {data['totalDebt']} and a debt to equity ratio of {data['debtToEquity']}."
 	
 	return return_str
-
+def combineArticles(articles):
+	articleStr = ""
+	urls = []
+	n = len(articles)
+	for (url, text) in articles:
+		urls.append(url)
+		articleStr += summarizeText(text, 450 //n)
+	return articleStr, urls
 from flask import Flask
 app = Flask(__name__)
 cors = CORS(app)
@@ -151,8 +158,9 @@ def blurb():
 	investor = f"investor with risk {risk} and timeframe {timeframe}"
 	articleTuples = getJawandArticle(ticker)
 	stats = getJawandStats(ticker)
-	summArticle = getJawandArticle(ticker)
-	return getBlurb(ticker, investor, stats, summArticle)
+	summArticle, links = combineArticles(articleTuples)
+	generatedBlurb = getBlurb(ticker, investor, stats, summArticle)
+	return generatedBlurb
 
 
 @app.route('/getTickers')
