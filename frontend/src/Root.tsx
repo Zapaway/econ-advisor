@@ -30,6 +30,7 @@ export default function Root() {
         ></label>
         <ul className="menu p-4 w-80 min-h-full bg-base-200 text-base-content">
           <div className="mx-3 mt-3 mb-5">
+            <img src="/icon.jpeg" className="mb-10"/>
             <p className="font-spaceg text-3xl">GoalsStreet</p>
             <p className="text-lg">Investing for everyone.</p>
           </div>
