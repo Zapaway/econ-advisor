@@ -1,0 +1,335 @@
+{
+    "AAPL": {
+        "name": "Apple Inc.",
+        "ideal_ris": [
+            "medium"
+        ],
+        "ideal_timeframes": [
+            "long"
+        ]
+    },
+    "ABBV": {
+        "name": "AbbVie Inc.",
+        "ideal_ris": [
+            "low"
+        ],
+        "ideal_timeframes": [
+            "long"
+        ]
+    },
+    "ADBE": {
+        "name": "Adobe Inc.",
+        "ideal_ris": [
+            "medium"
+        ],
+        "ideal_timeframes": [
+            "long"
+        ]
+    },
+    "AMD": {
+        "name": "Advanced Micro Devices, Inc.",
+        "ideal_ris": [
+            "high"
+        ],
+        "ideal_timeframes": [
+            "long"
+        ]
+    },
+    "AMZN": {
+        "name": "Amazon.com, Inc.",
+        "ideal_ris": [
+            "medium"
+        ],
+        "ideal_timeframes": [
+            "long"
+        ]
+    },
+    "AVGO": {
+        "name": "Broadcom Inc.",
+        "ideal_ris": [
+            "medium"
+        ],
+        "ideal_timeframes": [
+            "long"
+        ]
+    },
+    "BAC": {
+        "name": "Bank of America Corporation",
+        "ideal_ris": [
+            "high"
+        ],
+        "ideal_timeframes": [
+            "short"
+        ]
+    },
+    "COST": {
+        "name": "Costco Wholesale Corporation",
+        "ideal_ris": [
+            "low"
+        ],
+        "ideal_timeframes": [
+            "long"
+        ]
+    },
+    "CRM": {
+        "name": "Salesforce, Inc.",
+        "ideal_ris": [
+            "medium"
+        ],
+        "ideal_timeframes": [
+            "long"
+        ]
+    },
+    "CSCO": {
+        "name": "Cisco Systems, Inc.",
+        "ideal_ris": [
+            "low"
+        ],
+        "ideal_timeframes": [
+            "mid"
+        ]
+    },
+    "CVX": {
+        "name": "Chevron Corporation",
+        "ideal_ris": [
+            "medium"
+        ],
+        "ideal_timeframes": [
+            "short"
+        ]
+    },
+    "DIS": {
+        "name": "The Walt Disney Company",
+        "ideal_ris": [
+            "high"
+        ],
+        "ideal_timeframes": [
+            "long"
+        ]
+    },
+    "GOOG": {
+        "name": "Alphabet Inc.",
+        "ideal_ris": [
+            "medium"
+        ],
+        "ideal_timeframes": [
+            "long"
+        ]
+    },
+    "GOOGL": {
+        "name": "Alphabet Inc.",
+        "ideal_ris": [
+            "medium"
+        ],
+        "ideal_timeframes": [
+            "long"
+        ]
+    },
+    "HD": {
+        "name": "The Home Depot, Inc.",
+        "ideal_ris": [
+            "low"
+        ],
+        "ideal_timeframes": [
+            "long"
+        ]
+    },
+    "JNJ": {
+        "name": "Johnson & Johnson",
+        "ideal_ris": [
+            "low"
+        ],
+        "ideal_timeframes": [
+            "long"
+        ]
+    },
+    "JPM": {
+        "name": "JPMorgan Chase & Co.",
+        "ideal_ris": [
+            "medium"
+        ],
+        "ideal_timeframes": [
+            "short"
+        ]
+    },
+    "KO": {
+        "name": "The Coca-Cola Company",
+        "ideal_ris": [
+            "low"
+        ],
+        "ideal_timeframes": [
+            "mid"
+        ]
+    },
+    "LIN": {
+        "name": "Linde plc",
+        "ideal_ris": [
+            "low"
+        ],
+        "ideal_timeframes": [
+            "long"
+        ]
+    },
+    "LLY": {
+        "name": "Eli Lilly and Company",
+        "ideal_ris": [
+            "low"
+        ],
+        "ideal_timeframes": [
+            "long"
+        ]
+    },
+    "MA": {
+        "name": "Mastercard Incorporated",
+        "ideal_ris": [
+            "medium"
+        ],
+        "ideal_timeframes": [
+            "long"
+        ]
+    },
+    "MCD": {
+        "name": "McDonald's Corporation",
+        "ideal_ris": [
+            "low"
+        ],
+        "ideal_timeframes": [
+            "mid"
+        ]
+    },
+    "META": {
+        "name": "Meta Platforms, Inc.",
+        "ideal_ris": [
+            "medium"
+        ],
+        "ideal_timeframes": [
+            "long"
+        ]
+    },
+    "MRK": {
+        "name": "Merck & Co., Inc.",
+        "ideal_ris": [
+            "low"
+        ],
+        "ideal_timeframes": [
+            "long"
+        ]
+    },
+    "MSFT": {
+        "name": "Microsoft Corporation",
+        "ideal_ris": [
+            "low"
+        ],
+        "ideal_timeframes": [
+            "long"
+        ]
+    },
+    "NFLX": {
+        "name": "Netflix, Inc.",
+        "ideal_ris": [
+            "medium"
+        ],
+        "ideal_timeframes": [
+            "long"
+        ]
+    },
+    "NVDA": {
+        "name": "NVIDIA Corporation",
+        "ideal_ris": [
+            "high"
+        ],
+        "ideal_timeframes": [
+            "long"
+        ]
+    },
+    "ORCL": {
+        "name": "Oracle Corporation",
+        "ideal_ris": [
+            "low"
+        ],
+        "ideal_timeframes": [
+            "long"
+        ]
+    },
+    "PEP": {
+        "name": "PepsiCo, Inc.",
+        "ideal_ris": [
+            "low"
+        ],
+        "ideal_timeframes": [
+            "long"
+        ]
+    },
+    "PG": {
+        "name": "The Procter & Gamble Company",
+        "ideal_ris": [
+            "low"
+        ],
+        "ideal_timeframes": [
+            "long"
+        ]
+    },
+    "TMO": {
+        "name": "Thermo Fisher Scientific Inc.",
+        "ideal_ris": [
+            "low"
+        ],
+        "ideal_timeframes": [
+            "long"
+        ]
+    },
+    "TSLA": {
+        "name": "Tesla, Inc.",
+        "ideal_ris": [
+            "high"
+        ],
+        "ideal_timeframes": [
+            "long"
+        ]
+    },
+    "UNH": {
+        "name": "UnitedHealth Group Incorporated",
+        "ideal_ris": [
+            "low"
+        ],
+        "ideal_timeframes": [
+            "mid"
+        ]
+    },
+    "V": {
+        "name": "Visa Inc.",
+        "ideal_ris": [
+            "low"
+        ],
+        "ideal_timeframes": [
+            "long"
+        ]
+    },
+    "WFC": {
+        "name": "Wells Fargo & Company",
+        "ideal_ris": [
+            "medium"
+        ],
+        "ideal_timeframes": [
+            "short"
+        ]
+    },
+    "WMT": {
+        "name": "Walmart Inc.",
+        "ideal_ris": [
+            "low"
+        ],
+        "ideal_timeframes": [
+            "long"
+        ]
+    },
+    "XOM": {
+        "name": "Exxon Mobil Corporation",
+        "ideal_ris": [
+            "low"
+        ],
+        "ideal_timeframes": [
+            "short"
+        ]
+    }
+}
