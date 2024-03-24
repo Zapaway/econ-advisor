@@ -1,3 +1,234 @@
 {
-  "message": "Too many requests"
+  "0": {
+    "uuid": "14e696cb-f018-3ab9-811e-f4b4e47e095d",
+    "title": "Wood\u2019s ARK Buys Reddit Shares in IPO",
+    "publisher": "etf.com",
+    "link": "https://finance.yahoo.com/m/14e696cb-f018-3ab9-811e-f4b4e47e095d/wood%E2%80%99s-ark-buys-reddit-shares.html",
+    "providerPublishTime": 1711138111,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/ZxQ54omwbLk0IBPCqQ0SoQ--~B/aD0xNDE1O3c9MjExOTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/indexuniverse.com/67269b4a40207500436c9c85f0fe78bb",
+          "width": 2119,
+          "height": 1415,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/AFz214S7UjPErY.ywExKMg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/indexuniverse.com/67269b4a40207500436c9c85f0fe78bb",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "RDDT",
+      "SPY"
+    ]
+  },
+  "1": {
+    "uuid": "8271b978-e1e2-334e-9470-f44225fb2bae",
+    "title": "5 Reasons to Buy Housing ETFs Now",
+    "publisher": "Zacks",
+    "link": "https://finance.yahoo.com/news/5-reasons-buy-housing-etfs-170000038.html",
+    "providerPublishTime": 1711126800,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/9Xur5fjKTjVMTPyEod_g1A--~B/aD01MTM7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/0fb0f4d85fc5e518bf594b3cd1f65a60",
+          "width": 620,
+          "height": 513,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/wMDd4dDCR.Y9wDmGrHGP5Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/0fb0f4d85fc5e518bf594b3cd1f65a60",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "SPY"
+    ]
+  },
+  "2": {
+    "uuid": "2e433e16-4c14-3ebb-b8e0-779649d80849",
+    "title": "Equal-Weight RSP Boxing Out SPY, Mag 7",
+    "publisher": "etf.com",
+    "link": "https://finance.yahoo.com/m/2e433e16-4c14-3ebb-b8e0-779649d80849/equal-weight-rsp-boxing-out.html",
+    "providerPublishTime": 1710950400,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/ZYH8wDMn2hAFpfFAZkr9uQ--~B/aD04MzY7dz0xMjUzO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/indexuniverse.com/c23a9a1f8acd24a51643ef70a8f25942",
+          "width": 1253,
+          "height": 836,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/jRVUyg3CFVjkPyaXaySeJA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/indexuniverse.com/c23a9a1f8acd24a51643ef70a8f25942",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "QQQ",
+      "RSP",
+      "SPY"
+    ]
+  },
+  "3": {
+    "uuid": "9106ed42-3bc6-362d-9a8c-bd5748c750dd",
+    "title": "What's the Best Way to Invest in Stocks Without Any Experience? Start With This Index Fund.",
+    "publisher": "Motley Fool",
+    "link": "https://finance.yahoo.com/m/9106ed42-3bc6-362d-9a8c-bd5748c750dd/what%27s-the-best-way-to-invest.html",
+    "providerPublishTime": 1710943500,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/UJy9xnuW8X66qvWUBmH9fw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/964fe3cdb9aee351438841a645190c0c",
+          "width": 1400,
+          "height": 933,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/jEywwDIsDVJI8pVlsGSGMQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/964fe3cdb9aee351438841a645190c0c",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "^GSPC",
+      "SPY"
+    ]
+  },
+  "4": {
+    "uuid": "427bf65b-646b-4e1a-8833-91108b049529",
+    "title": "The rates trade is back in focus for stock investors",
+    "publisher": "Yahoo Finance",
+    "link": "https://finance.yahoo.com/news/the-rates-trade-is-back-in-focus-for-stock-investors-165437813.html",
+    "providerPublishTime": 1710923484,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/BtmG4GegAERh54MuuVai6A--~B/aD0zMzI0O3c9NDk4OTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-03/db1d95c0-dc8e-11ee-8ff2-7b6155f0fcf9",
+          "width": 4989,
+          "height": 3324,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/9rnRLe40hUnBcbjNDA.sIQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2024-03/db1d95c0-dc8e-11ee-8ff2-7b6155f0fcf9",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "^IXIC",
+      "^DJI",
+      "SPY",
+      "^TYX",
+      "^GSPC",
+      "^TNX"
+    ]
+  },
+  "5": {
+    "uuid": "0dc060a3-8bab-36a0-b316-ebe5a26d1c8e",
+    "title": "Exploring Economic Indicators: Inflation, Retail Sales, Consumer Sentiment",
+    "publisher": "ETF Trends",
+    "link": "https://finance.yahoo.com/news/exploring-economic-indicators-inflation-retail-120005707.html",
+    "providerPublishTime": 1710763205,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/q7_CxPFQeHGABJThfQuVTQ--~B/aD0yNTA7dz00NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/etftrends.com/1c3c950ed137853394097efbc8520fb7",
+          "width": 440,
+          "height": 250,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/LfpPnN9mr74Ox0QR8d4Ohw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/etftrends.com/1c3c950ed137853394097efbc8520fb7",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "SPY"
+    ]
+  },
+  "6": {
+    "uuid": "332233df-624e-440a-95db-5fa497de8ce8",
+    "title": "All eyes on the Federal Reserve: What to know this week",
+    "publisher": "Yahoo Finance",
+    "link": "https://finance.yahoo.com/news/all-eyes-on-the-federal-reserve-what-to-know-this-week-130040499.html",
+    "providerPublishTime": 1710680440,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/2n8nsbB829OKBJyocRTxIQ--~B/aD0yMzkzO3c9MzU5MDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-03/02bb4e50-e307-11ee-bfbf-24624f2d5cf1",
+          "width": 3590,
+          "height": 2393,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/IQFUqrBqUOj1uuOxi2aX0g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2024-03/02bb4e50-e307-11ee-bfbf-24624f2d5cf1",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "NKE",
+      "^GSPC",
+      "^IXIC",
+      "FDX",
+      "SPY",
+      "LULU",
+      "^DJI"
+    ]
+  },
+  "7": {
+    "uuid": "70423f1e-cbcd-3852-945a-2ebc644c72ba",
+    "title": "What's the Best Way to Invest in Stocks Without Any Experience? Start With This ETF.",
+    "publisher": "Motley Fool",
+    "link": "https://finance.yahoo.com/m/70423f1e-cbcd-3852-945a-2ebc644c72ba/what%27s-the-best-way-to-invest.html",
+    "providerPublishTime": 1710601200,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/IEGYsTyCphUKSeFg3i_jWw--~B/aD0xMTEyO3c9MTcyODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/e7c01f793f65dac6d72efdf1b8ebacb9",
+          "width": 1728,
+          "height": 1112,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/Q_3hcFQjiT5HjziXlXufYQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/e7c01f793f65dac6d72efdf1b8ebacb9",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "^GSPC",
+      "SPY"
+    ]
+  }
 }

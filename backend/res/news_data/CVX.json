@@ -1,3 +1,229 @@
 {
-  "message": "Too many requests"
+  "0": {
+    "uuid": "7d01651f-392b-3ecc-ab68-90e542021231",
+    "title": "If There Was a \"Magnificent Seven\" for Dividend Stocks, These Would Be My Top Picks",
+    "publisher": "Motley Fool",
+    "link": "https://finance.yahoo.com/m/7d01651f-392b-3ecc-ab68-90e542021231/if-there-was-a-%22magnificent.html",
+    "providerPublishTime": 1711206960,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/I6t_d2akjCgnn5fp7Yl7VQ--~B/aD04MDA7dz0xMTk5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/0f035422ed965ed2a38f1d7c8b488ddb",
+          "width": 1199,
+          "height": 800,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/eiB6trelXcU.aPaH7uDJAw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/0f035422ed965ed2a38f1d7c8b488ddb",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "UPS",
+      "CVX",
+      "JPM",
+      "HD",
+      "PG",
+      "MSFT"
+    ]
+  },
+  "1": {
+    "uuid": "bac1209d-05f8-3dfe-a082-bc34a2c27656",
+    "title": "The Oil Market's Massive M&A Wave Has Devon Energy on the Outside Still Looking for a Deal",
+    "publisher": "Motley Fool",
+    "link": "https://finance.yahoo.com/m/bac1209d-05f8-3dfe-a082-bc34a2c27656/the-oil-market%27s-massive-m%26a.html",
+    "providerPublishTime": 1711098120,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/cSqzEUj27lu8449kxY7Hnw--~B/aD0xNDE0O3c9MjEyMTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/a9836dbd78214a588a8483e8333f56ac",
+          "width": 2121,
+          "height": 1414,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/xmYIYq2t.kW1zkn6.Jhrww--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/a9836dbd78214a588a8483e8333f56ac",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "DVN",
+      "CVX"
+    ]
+  },
+  "2": {
+    "uuid": "f3d2ff82-daf6-3869-894a-bb11124939d7",
+    "title": "10 Best Performing Energy Stocks Right Now",
+    "publisher": "Insider Monkey",
+    "link": "https://finance.yahoo.com/news/10-best-performing-energy-stocks-062536121.html",
+    "providerPublishTime": 1711088736,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/10cgyfp90cdmFKmJOwlOkg--~B/aD04MTY7dz0xNDU2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/29ea1683c29060520e48b3a75f63d329",
+          "width": 1456,
+          "height": 816,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/h6WvgWbIDpPt1uU.dqNHaA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/29ea1683c29060520e48b3a75f63d329",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "CVX",
+      "XOM",
+      "AROC",
+      "CCLP"
+    ]
+  },
+  "3": {
+    "uuid": "48a23ced-69f9-3c24-bf40-8da6912d98a8",
+    "title": "16 Best Passive Income Stocks To Buy According to Hedge Funds",
+    "publisher": "Insider Monkey",
+    "link": "https://finance.yahoo.com/news/16-best-passive-income-stocks-140023724.html",
+    "providerPublishTime": 1711029623,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/Gi5L3S49LGxqTv.eHTqzQg--~B/aD0xMjc1O3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/insidermonkey.com/49de360447d6c3bc2d07313db7578ad2",
+          "width": 1920,
+          "height": 1275,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/nCD0k483atoARoYCbcafRg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/49de360447d6c3bc2d07313db7578ad2",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "QCOM",
+      "CVX",
+      "JNJ",
+      "ABBV",
+      "HD",
+      "^GSPC",
+      "AVGO",
+      "PM",
+      "PG",
+      "LOW",
+      "NKE"
+    ]
+  },
+  "4": {
+    "uuid": "bc1400fe-08d9-32fa-8ad4-74671b7202bc",
+    "title": "The Zacks Analyst Blog Highlights Diamondback Energy, Exxon Mobil, Chevron, Pioneer Natural Resources and Hess",
+    "publisher": "Zacks",
+    "link": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-diamondback-110000551.html",
+    "providerPublishTime": 1711018800,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/.uyFvhDnR8FS9v3NobicgQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/220280fc7469797653572e9fff387e53",
+          "width": 635,
+          "height": 400,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/NB_YKNDbi7jg1n3nYd35hg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/220280fc7469797653572e9fff387e53",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "CVX",
+      "XOM",
+      "FANG",
+      "PXD",
+      "HES"
+    ]
+  },
+  "5": {
+    "uuid": "24bc96e5-4752-3a97-8d97-eb0408cda2c0",
+    "title": "How Much Longer Will Warren Buffett Top Dividend Stocks Apple, Coca-Cola, and Chevron Underperform the S&P 500?",
+    "publisher": "Motley Fool",
+    "link": "https://finance.yahoo.com/m/24bc96e5-4752-3a97-8d97-eb0408cda2c0/how-much-longer-will-warren.html",
+    "providerPublishTime": 1711014300,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/fPl_jdgShiy3z0tToddv5Q--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/c967d88ae0467937292fe2e8f0e9f4e0",
+          "width": 1200,
+          "height": 800,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/BBl2IZEDRtLfMqKi.aP3tg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/c967d88ae0467937292fe2e8f0e9f4e0",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "AAPL",
+      "CVX",
+      "^GSPC",
+      "KO"
+    ]
+  },
+  "6": {
+    "uuid": "2db8564d-9215-3a26-ab7b-fee3e4d69c93",
+    "title": "Chevron agrees to pay more than $13 million in fines for California oil spills",
+    "publisher": "Associated Press Finance",
+    "link": "https://finance.yahoo.com/news/chevron-agrees-pay-more-13-001407301.html",
+    "providerPublishTime": 1710980047,
+    "type": "STORY",
+    "relatedTickers": [
+      "CVX"
+    ]
+  },
+  "7": {
+    "uuid": "7c9c9435-aac4-3e50-834b-55ca72b19196",
+    "title": "20 Biggest Energy Companies in Australia for 2024",
+    "publisher": "Insider Monkey",
+    "link": "https://finance.yahoo.com/news/20-biggest-energy-companies-australia-232316783.html",
+    "providerPublishTime": 1710976996,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/Z427logJal.woROidMkAng--~B/aD04MTY7dz0xNDU2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/09994f548a6ea1ad3f7069837d24598d",
+          "width": 1456,
+          "height": 816,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/hSwlXMbzUeux1CSyVqMQPw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/09994f548a6ea1ad3f7069837d24598d",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "CVX",
+      "XOM"
+    ]
+  }
 }

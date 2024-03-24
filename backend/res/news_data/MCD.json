@@ -1,3 +1,194 @@
 {
-  "message": "Too many requests"
+  "0": {
+    "uuid": "f8b54a2a-13b0-30b4-9d3d-2585d8ef3276",
+    "title": "McDonald's stores close in Sri Lanka after deal with partner ended",
+    "publisher": "Reuters",
+    "link": "https://finance.yahoo.com/news/mcdonalds-stores-close-sri-lanka-131339822.html",
+    "providerPublishTime": 1711286019,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/BfhdNB_S7.bmFrVJ1znbHQ--~B/aD01NjQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/d0b3a1b372f2834fc56d228630648bfd",
+          "width": 800,
+          "height": 564,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/Zb6YeRN_SN.awQ4ZTPLRxg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/reuters-finance.com/d0b3a1b372f2834fc56d228630648bfd",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "MCD"
+    ]
+  },
+  "1": {
+    "uuid": "f003f3d4-5fd4-35e7-b604-6e226149f5c6",
+    "title": "UPDATE 1-McDonald's stores close in Sri Lanka after deal with partner ended, lawyer says",
+    "publisher": "Reuters",
+    "link": "https://finance.yahoo.com/news/1-mcdonalds-stores-close-sri-130552248.html",
+    "providerPublishTime": 1711285552,
+    "type": "STORY",
+    "relatedTickers": [
+      "MCD"
+    ]
+  },
+  "2": {
+    "uuid": "780b54d0-89e0-4f8f-8316-6c22a9029ccc",
+    "title": "Q&A: Chipotle CEO dishes on big portion sizes, AI, and top leadership advice",
+    "publisher": "Yahoo Finance",
+    "link": "https://finance.yahoo.com/news/qa-chipotle-ceo-dishes-on-big-portion-sizes-ai-and-top-leadership-advice-123006965.html",
+    "providerPublishTime": 1711283406,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/OR5C.yzEfotT2VSWFVYgbQ--~B/aD0yNjY3O3c9NDAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-images/2020-05/67dccf70-99eb-11ea-bf57-2141b5037268",
+          "width": 4000,
+          "height": 2667,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/XcKum26h3Eq4eqMGshE0.Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-images/2020-05/67dccf70-99eb-11ea-bf57-2141b5037268",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "SG",
+      "SHAK",
+      "MCD",
+      "CAVA",
+      "CMG"
+    ]
+  },
+  "3": {
+    "uuid": "2bf316db-82c9-3c2e-be9d-c64323a720a9",
+    "title": "McDonald's ends deal with Sri Lanka partner, outlets\u00a0closed - attorney",
+    "publisher": "Reuters",
+    "link": "https://finance.yahoo.com/news/mcdonalds-ends-deal-sri-lanka-121405601.html",
+    "providerPublishTime": 1711282445,
+    "type": "STORY",
+    "relatedTickers": [
+      "MCD"
+    ]
+  },
+  "4": {
+    "uuid": "dc1ba6fe-bd12-392e-8621-11e2494e89b6",
+    "title": "These 3 Warren Buffett Stocks Have a Lower Price-to-Earnings Than the S&P 500. Time to Buy?",
+    "publisher": "Motley Fool",
+    "link": "https://finance.yahoo.com/m/dc1ba6fe-bd12-392e-8621-11e2494e89b6/these-3-warren-buffett-stocks.html",
+    "providerPublishTime": 1711280700,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/H3_sqWzEW3g8Fw8L0DtcOA--~B/aD00NDE7dz03MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/13bb273e2dfa15d75cdee885c91d06b1",
+          "width": 720,
+          "height": 441,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/h8K1oCcQZDfxDYO2xQ79Mw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/13bb273e2dfa15d75cdee885c91d06b1",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "KO",
+      "^GSPC",
+      "MCD",
+      "SIRI"
+    ]
+  },
+  "5": {
+    "uuid": "cb1d4018-f095-3dc4-96f2-f090c5a8f6c3",
+    "title": "McDonald's' (NYSE:MCD) investors will be pleased with their decent 67% return over the last five years",
+    "publisher": "Simply Wall St.",
+    "link": "https://finance.yahoo.com/news/mcdonalds-nyse-mcd-investors-pleased-110116250.html",
+    "providerPublishTime": 1711278076,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/Div12dU6_kae2a0bJg2GXA--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/b7e2fd17626e2fa16ec5438e9d6a7a14",
+          "width": 1194,
+          "height": 432,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/cgBB_O26xoX1wMcZussFxQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/b7e2fd17626e2fa16ec5438e9d6a7a14",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "MCD"
+    ]
+  },
+  "6": {
+    "uuid": "6483d479-b2d1-3915-9f33-39493ebdf4c4",
+    "title": "Call Me Crazy: I'd Invest in McDonald's Over Nvidia",
+    "publisher": "Motley Fool",
+    "link": "https://finance.yahoo.com/m/6483d479-b2d1-3915-9f33-39493ebdf4c4/call-me-crazy%3A-i%27d-invest-in.html",
+    "providerPublishTime": 1711199160,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/pgKa3.8P21asc3Du.ayuKQ--~B/aD0xNDE0O3c9MjExOTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/c7684395c3be7db74ed30e0c90917f66",
+          "width": 2119,
+          "height": 1414,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/79aU2gpJxfzei8QtK_JBJg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/c7684395c3be7db74ed30e0c90917f66",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "NVDA",
+      "MCD"
+    ]
+  },
+  "7": {
+    "uuid": "dff82cb5-db74-311e-bd69-26126a4005ef",
+    "title": "Insider Sell: President of McDonald's USA, Joseph Erlinger, Sells 1,099 Shares of McDonald's ...",
+    "publisher": "GuruFocus.com",
+    "link": "https://finance.yahoo.com/news/insider-sell-president-mcdonalds-usa-230117923.html",
+    "providerPublishTime": 1711148477,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/WXtoo8U5mxXVvR5wdsBWOQ--~B/aD01NDM7dz0xMjQyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/us.finance.gurufocus/d134779feecb7ad73e9ad84fc9ce45bc",
+          "width": 1242,
+          "height": 543,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/ngIeDhHJQC7ntibp2hZg_g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/us.finance.gurufocus/d134779feecb7ad73e9ad84fc9ce45bc",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "MCD"
+    ]
+  }
 }

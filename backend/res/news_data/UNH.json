@@ -1,3 +1,190 @@
 {
-  "message": "Too many requests"
+  "0": {
+    "uuid": "eb8d7825-7c8e-3007-8d50-cf0c6cc6ab18",
+    "title": "UnitedHealth unit will start processing $14 billion medical claims backlog after hack",
+    "publisher": "Reuters",
+    "link": "https://finance.yahoo.com/news/unitedhealth-says-several-services-handling-194743473.html",
+    "providerPublishTime": 1711136863,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/U3AkOh5WhbJRnGoJB_P7kg--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/2e27a510798afba492a6624189809130",
+          "width": 800,
+          "height": 533,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/3u.J4SiUTYBSAxc6D_Ajtw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/reuters-finance.com/2e27a510798afba492a6624189809130",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "UNH"
+    ]
+  },
+  "1": {
+    "uuid": "1eda2033-4f6b-3365-bba5-a014eadc93b5",
+    "title": "UPDATE 5-UnitedHealth unit will start processing $14 bln medical claims backlog after hack",
+    "publisher": "Reuters",
+    "link": "https://finance.yahoo.com/news/1-unitedhealth-says-several-services-194056348.html",
+    "providerPublishTime": 1711136456,
+    "type": "STORY",
+    "relatedTickers": [
+      "UNH"
+    ]
+  },
+  "2": {
+    "uuid": "c3af5912-2401-3e2c-8488-1bafdb49b47b",
+    "title": "UnitedHealth says Change's medical claims application to be back online",
+    "publisher": "Reuters",
+    "link": "https://finance.yahoo.com/news/unitedhealth-says-changes-medical-claims-192533101.html",
+    "providerPublishTime": 1711135533,
+    "type": "STORY",
+    "relatedTickers": [
+      "UNH"
+    ]
+  },
+  "3": {
+    "uuid": "33bae1c1-b1b9-3c2f-be9e-c804154e5446",
+    "title": "Compelling Reasons to Hold on to UnitedHealth Group (UNH) Stock",
+    "publisher": "Zacks",
+    "link": "https://finance.yahoo.com/news/compelling-reasons-hold-unitedhealth-group-170200615.html",
+    "providerPublishTime": 1711126920,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/KEj1lCkxRqndrrMrF3m.HA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/9c7450ec9df154559fbeb393640d6629",
+          "width": 635,
+          "height": 400,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/L9oXp_PBujUXs0r0RIkKrg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/9c7450ec9df154559fbeb393640d6629",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "UNH",
+      "EW"
+    ]
+  },
+  "4": {
+    "uuid": "e686be59-5d9b-3344-a05d-05d3412f7a33",
+    "title": "Want Better Returns? Don't Ignore These 2 Medical Stocks Set to Beat Earnings",
+    "publisher": "Zacks",
+    "link": "https://finance.yahoo.com/news/want-better-returns-dont-ignore-130002515.html",
+    "providerPublishTime": 1711112402,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/OL7xfT5pzuzwP2wxb1pcSw--~B/aD02MjU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/7ea641b46fe75c0a913349e5e610d6a2",
+          "width": 900,
+          "height": 625,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/b9rAc1dD4ZmWarIFuNIcGw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/7ea641b46fe75c0a913349e5e610d6a2",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "UNH"
+    ]
+  },
+  "5": {
+    "uuid": "df269d7a-9f4b-35cb-9b7f-3b960db70271",
+    "title": "GMO Quality Fund Aims To Beat Its Decade-Long Outperformance",
+    "publisher": "Investor's Business Daily",
+    "link": "https://finance.yahoo.com/m/df269d7a-9f4b-35cb-9b7f-3b960db70271/gmo-quality-fund-aims-to-beat.html",
+    "providerPublishTime": 1711110648,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/eW6NV2_eViHko9mnzPfCdw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/6ff992aeb852dfe0b7841549825b5ee1",
+          "width": 1000,
+          "height": 563,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/88mFGdIzFCVG40BcWTvc_w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/6ff992aeb852dfe0b7841549825b5ee1",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "UNH"
+    ]
+  },
+  "6": {
+    "uuid": "585fc292-5727-3a47-8a4e-ed6930ca9bbd",
+    "title": "Hospital groups question HHS about data breach reporting after Change attack",
+    "publisher": "Healthcare Dive",
+    "link": "https://finance.yahoo.com/m/585fc292-5727-3a47-8a4e-ed6930ca9bbd/hospital-groups-question-hhs.html",
+    "providerPublishTime": 1711103886,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/U1nD0UquVIM8tvDYIBi.AA--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/healthcare_dive_849/eea9d8f6d5b08c990220639bbfa4e19f",
+          "width": 1280,
+          "height": 720,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/.ssCL9LkTw7b1lFA1PVAog--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/healthcare_dive_849/eea9d8f6d5b08c990220639bbfa4e19f",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "UNH"
+    ]
+  },
+  "7": {
+    "uuid": "64052ec6-779f-3d4b-8be9-60edc628cb6d",
+    "title": "19 Most Densely Populated States in the US",
+    "publisher": "Insider Monkey",
+    "link": "https://finance.yahoo.com/news/19-most-densely-populated-states-090743247.html",
+    "providerPublishTime": 1711098463,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/8rgTxdJ3j.6Rpf9TZgmTXw--~B/aD03NTA7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/4864a54954a27c870a0610d92f9160c1",
+          "width": 1000,
+          "height": 750,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/172rNpmd3qArbiyp7dSOIA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/4864a54954a27c870a0610d92f9160c1",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "^GSPC",
+      "JNJ",
+      "UNH",
+      "LLY"
+    ]
+  }
 }

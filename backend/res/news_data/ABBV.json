@@ -1,3 +1,207 @@
 {
-  "message": "Too many requests"
+  "0": {
+    "uuid": "5da2cd2a-4844-3724-8651-82ea46adb603",
+    "title": "Insider Sell: EVP, Chief Business/Strategy Officer Nicholas Donoghoe Sells 21,082 Shares of ...",
+    "publisher": "GuruFocus.com",
+    "link": "https://finance.yahoo.com/news/insider-sell-evp-chief-business-230039844.html",
+    "providerPublishTime": 1711148439,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/Cw_VBIHQ_Ty_vnYjEHm5_g--~B/aD01NDM7dz0xMjQyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/us.finance.gurufocus/722744eb178bf9fd087628cc78b1086b",
+          "width": 1242,
+          "height": 543,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/dbhG2xeWNGAl.2syTjhztw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/us.finance.gurufocus/722744eb178bf9fd087628cc78b1086b",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "ABBV"
+    ]
+  },
+  "1": {
+    "uuid": "95466027-76b5-3822-b98d-93ad2ef13fc9",
+    "title": "UPDATE 1-US FDA grants full approval to AbbVie's ovarian cancer therapy",
+    "publisher": "Reuters",
+    "link": "https://finance.yahoo.com/news/1-us-fda-grants-full-191053529.html",
+    "providerPublishTime": 1711134653,
+    "type": "STORY",
+    "relatedTickers": [
+      "ABBV"
+    ]
+  },
+  "2": {
+    "uuid": "dd1cbbb3-3a1f-3891-b0cb-39e52bfe32cf",
+    "title": "U.S. Food and Drug Administration (FDA) Grants Full Approval for ELAHERE\u00ae (mirvetuximab soravtansine-gynx) for Certain Ovarian Cancer Patients",
+    "publisher": "PR Newswire",
+    "link": "https://finance.yahoo.com/news/u-food-drug-administration-fda-190200273.html",
+    "providerPublishTime": 1711134120,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/.Xe1EIX7J6bie9vkkSC.wQ--~B/aD03MDt3PTQwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/prnewswire.com/a5eaa0af5f515703fe951de405417559",
+          "width": 400,
+          "height": 70,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/emZzkY5ITA.loqGcgSlrjw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/prnewswire.com/a5eaa0af5f515703fe951de405417559",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "ABBV"
+    ]
+  },
+  "3": {
+    "uuid": "5db1b248-967e-3c7e-a1b2-a26581bb29ec",
+    "title": "US FDA grants full approval to AbbVie's ovarian cancer therapy",
+    "publisher": "Reuters",
+    "link": "https://finance.yahoo.com/news/us-fda-grants-full-approval-183525861.html",
+    "providerPublishTime": 1711132525,
+    "type": "STORY",
+    "relatedTickers": [
+      "ABBV"
+    ]
+  },
+  "4": {
+    "uuid": "3283639e-cc7b-32cf-bb95-4e4a6099f27f",
+    "title": "11 Best Healthcare ETFs To Buy Now",
+    "publisher": "Insider Monkey",
+    "link": "https://finance.yahoo.com/news/11-best-healthcare-etfs-buy-142503468.html",
+    "providerPublishTime": 1711031103,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/RZQ4ZrVa6rbvpYzIFrc0.Q--~B/aD00MzA7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/67e507f79916ae4e3b975fb95c3b2215",
+          "width": 768,
+          "height": 430,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/NUBsmCF3hMmxa9hCYWUXUw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/67e507f79916ae4e3b975fb95c3b2215",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "LLY",
+      "JNJ",
+      "NTRA",
+      "MRK",
+      "ABT",
+      "UNH",
+      "ABBV",
+      "TMO",
+      "DHR"
+    ]
+  },
+  "5": {
+    "uuid": "48a23ced-69f9-3c24-bf40-8da6912d98a8",
+    "title": "16 Best Passive Income Stocks To Buy According to Hedge Funds",
+    "publisher": "Insider Monkey",
+    "link": "https://finance.yahoo.com/news/16-best-passive-income-stocks-140023724.html",
+    "providerPublishTime": 1711029623,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/Gi5L3S49LGxqTv.eHTqzQg--~B/aD0xMjc1O3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/insidermonkey.com/49de360447d6c3bc2d07313db7578ad2",
+          "width": 1920,
+          "height": 1275,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/nCD0k483atoARoYCbcafRg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/49de360447d6c3bc2d07313db7578ad2",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "QCOM",
+      "CVX",
+      "JNJ",
+      "ABBV",
+      "HD",
+      "^GSPC",
+      "AVGO",
+      "PM",
+      "PG",
+      "LOW",
+      "NKE"
+    ]
+  },
+  "6": {
+    "uuid": "8cb2acf2-7b57-33d5-bfa6-ab473c9c73a0",
+    "title": "ALLERGAN AESTHETICS CONTINUES TO CHAMPION INDIVIDUALITY, DRIVE INNOVATION AND LEAD WITH INTEGRITY AS IT HOSTS EXPERT LED SYMPOSIA AT AMWC 2024",
+    "publisher": "PR Newswire",
+    "link": "https://finance.yahoo.com/news/allergan-aesthetics-continues-champion-individuality-120000385.html",
+    "providerPublishTime": 1711022400,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/EB0Nj3iAGenecZHgjW_6TQ--~B/aD05Nzt3PTQwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/prnewswire.com/d07e572eaef73a27c1ae25977c221fa1",
+          "width": 400,
+          "height": 97,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/_CLNRpoGaJZdxrGyZ9D7xQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/prnewswire.com/d07e572eaef73a27c1ae25977c221fa1",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "ABBV"
+    ]
+  },
+  "7": {
+    "uuid": "bc875a25-e8bd-3079-94ff-8974721252e7",
+    "title": "The Zacks Analyst Blog Highlights Mastercard, AbbVie, Salesforce, Thermo Fisher Scientific and Mondelez",
+    "publisher": "Zacks",
+    "link": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-mastercard-094800007.html",
+    "providerPublishTime": 1710928080,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/ExUW7WdnJLzGBIF0zM.lsw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/1b40eb5468b4169ccaae74a0c512c12d",
+          "width": 635,
+          "height": 400,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/zZsVULDVlkHC3NsWgqOa0Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/1b40eb5468b4169ccaae74a0c512c12d",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "ABBV",
+      "MA",
+      "TMO",
+      "CRM"
+    ]
+  }
 }

@@ -1,3 +1,238 @@
 {
-  "message": "Too many requests"
+  "0": {
+    "uuid": "81070ea5-7f11-3dd1-8ee7-ba8efd8ca64b",
+    "title": "Merck (MRK) Gains As Market Dips: What You Should Know",
+    "publisher": "Zacks",
+    "link": "https://finance.yahoo.com/news/merck-mrk-gains-market-dips-214520842.html",
+    "providerPublishTime": 1711143920,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/M2z0wFqvnPw7eaLU0tPuyQ--~B/aD02MzY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/0c6f98f4bf655bec3b199bc1a71b8b85",
+          "width": 900,
+          "height": 636,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/ml_IW6uskjsyNFznUfnUDA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/0c6f98f4bf655bec3b199bc1a71b8b85",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "MRK"
+    ]
+  },
+  "1": {
+    "uuid": "47ff13f5-9a98-34b0-8a20-8aaf942765e5",
+    "title": "Merck's (MRK) Keytruda-Lynparza Combo Fails 2nd Lung Cancer Study",
+    "publisher": "Zacks",
+    "link": "https://finance.yahoo.com/news/mercks-mrk-keytruda-lynparza-combo-142600230.html",
+    "providerPublishTime": 1711117560,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/1YvkxNLsEvDesNn9Nqp_Qw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/df847a6f57145ec8b42be7c65f980057",
+          "width": 635,
+          "height": 400,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/xHdQenrLUaDb1bS06a7i2Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/df847a6f57145ec8b42be7c65f980057",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "ADMA",
+      "ANIP",
+      "MRK"
+    ]
+  },
+  "2": {
+    "uuid": "12d771e8-d9d4-30a4-83ab-ff4ebd79e7bf",
+    "title": "New Blood Thinners Will Prevent Blood Clots Without Causing Bleeding",
+    "publisher": "The Wall Street Journal",
+    "link": "https://finance.yahoo.com/m/12d771e8-d9d4-30a4-83ab-ff4ebd79e7bf/new-blood-thinners-will.html",
+    "providerPublishTime": 1711047600,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/qlVyEaWUGXmoCw5vG1HxEw--~B/aD02Mzk7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/b865dc2b6358068119fad5e0cb126d22",
+          "width": 1280,
+          "height": 639,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/x0xwvZrjjpre2_Qurq8kXw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/b865dc2b6358068119fad5e0cb126d22",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "BMY",
+      "CELG-RT",
+      "MRK",
+      "IONS",
+      "BAYRY",
+      "BAYZF",
+      "BX"
+    ]
+  },
+  "3": {
+    "uuid": "3283639e-cc7b-32cf-bb95-4e4a6099f27f",
+    "title": "11 Best Healthcare ETFs To Buy Now",
+    "publisher": "Insider Monkey",
+    "link": "https://finance.yahoo.com/news/11-best-healthcare-etfs-buy-142503468.html",
+    "providerPublishTime": 1711031103,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/RZQ4ZrVa6rbvpYzIFrc0.Q--~B/aD00MzA7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/67e507f79916ae4e3b975fb95c3b2215",
+          "width": 768,
+          "height": 430,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/NUBsmCF3hMmxa9hCYWUXUw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/67e507f79916ae4e3b975fb95c3b2215",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "LLY",
+      "JNJ",
+      "NTRA",
+      "MRK",
+      "ABT",
+      "UNH",
+      "ABBV",
+      "TMO",
+      "DHR"
+    ]
+  },
+  "4": {
+    "uuid": "7d54abec-1e51-3fa7-bb01-52145719d755",
+    "title": "The Zacks Analyst Blog Highlights JPMorgan Chase, Merck, SAP, Lam Research and Brown-Forman",
+    "publisher": "Zacks",
+    "link": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-jpmorgan-110000902.html",
+    "providerPublishTime": 1711018800,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/VVmgdI_JXVhezDlLQ4gwHA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/4d0f5c269de903a3e502f871a8b4461f",
+          "width": 635,
+          "height": 400,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/.6PplZP7GIh3er49a2O3eQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/4d0f5c269de903a3e502f871a8b4461f",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "MRK",
+      "BF-B",
+      "SAP"
+    ]
+  },
+  "5": {
+    "uuid": "ccf4f0e8-1527-3e7d-93a7-28593d2e574b",
+    "title": "Merck Provides Update on Phase 3 KEYLYNK-006 Trial Evaluating KEYTRUDA\u00ae (pembrolizumab) Plus Maintenance LYNPARZA\u00ae (olaparib) for Certain Patients With Metastatic Nonsquamous Non-Small Cell Lung Cancer",
+    "publisher": "Business Wire",
+    "link": "https://finance.yahoo.com/news/merck-provides-phase-3-keylynk-104500207.html",
+    "providerPublishTime": 1711017900,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/9ag_Kx6MSJKif_vZ_FKVGw--~B/aD0yMTc7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/b34946611a1486744f2fab822bae2a14",
+          "width": 480,
+          "height": 217,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/dm.T2VWkX4gcvF3LlPdgag--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/business-wire.com/b34946611a1486744f2fab822bae2a14",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "MRK"
+    ]
+  },
+  "6": {
+    "uuid": "a34f7431-9d80-3cbb-a5c6-0146020903ed",
+    "title": "Top Research Reports for JPMorgan Chase, Merck & SAP",
+    "publisher": "Zacks",
+    "link": "https://finance.yahoo.com/news/top-research-reports-jpmorgan-chase-201700391.html",
+    "providerPublishTime": 1710965820,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/WN_CaX01dNRYvEQELy4tkg--~B/aD01NDc7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/04ef584894a68a51076cbc8948736a37",
+          "width": 900,
+          "height": 547,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/mz8dzAaeF40CbiJX3bLHCQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/04ef584894a68a51076cbc8948736a37",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "MRK",
+      "BF-B",
+      "SAP"
+    ]
+  },
+  "7": {
+    "uuid": "bfc2ce27-6967-36e0-9623-919c9d5da569",
+    "title": "Merck & Co., Inc. (NYSE:MRK) is largely controlled by institutional shareholders who own 78% of the company",
+    "publisher": "Simply Wall St.",
+    "link": "https://finance.yahoo.com/news/merck-co-inc-nyse-mrk-110049898.html",
+    "providerPublishTime": 1710932449,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/H9sVDVM9mi9ws1HvXhxW7w--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/8b2f1fb8ed1ddbd9c7702732b1ea0316",
+          "width": 1194,
+          "height": 432,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/hG0OCZI55yVVgXDa9Dxy1Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/8b2f1fb8ed1ddbd9c7702732b1ea0316",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "MRK"
+    ]
+  }
 }

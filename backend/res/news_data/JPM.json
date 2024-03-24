@@ -1,3 +1,229 @@
 {
-  "message": "Too many requests"
+  "0": {
+    "uuid": "7d01651f-392b-3ecc-ab68-90e542021231",
+    "title": "If There Was a \"Magnificent Seven\" for Dividend Stocks, These Would Be My Top Picks",
+    "publisher": "Motley Fool",
+    "link": "https://finance.yahoo.com/m/7d01651f-392b-3ecc-ab68-90e542021231/if-there-was-a-%22magnificent.html",
+    "providerPublishTime": 1711206960,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/I6t_d2akjCgnn5fp7Yl7VQ--~B/aD04MDA7dz0xMTk5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/0f035422ed965ed2a38f1d7c8b488ddb",
+          "width": 1199,
+          "height": 800,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/eiB6trelXcU.aPaH7uDJAw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/0f035422ed965ed2a38f1d7c8b488ddb",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "UPS",
+      "CVX",
+      "JPM",
+      "HD",
+      "PG",
+      "MSFT"
+    ]
+  },
+  "1": {
+    "uuid": "f7e2824f-f046-3db8-8249-8e0b13562836",
+    "title": "JPMorgan Chase & Co.'s (NYSE:JPM) high institutional ownership speaks for itself as stock continues to impress, up 3.3% over last week",
+    "publisher": "Simply Wall St.",
+    "link": "https://finance.yahoo.com/news/jpmorgan-chase-co-nyse-jpm-130128411.html",
+    "providerPublishTime": 1711198888,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/D93sD4I.HCnjhHDLRpJ19A--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/393a21695c25a8a00f631cfd22c3f87a",
+          "width": 1194,
+          "height": 432,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/l9ri62WDH1LpMIr8qHol6Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/393a21695c25a8a00f631cfd22c3f87a",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "JPM"
+    ]
+  },
+  "2": {
+    "uuid": "41f63976-dbf8-35e5-8b30-dd05a36adedd",
+    "title": "Direxion Files to Leverage Popular JEPI, JEPQ ETFs",
+    "publisher": "etf.com",
+    "link": "https://finance.yahoo.com/m/41f63976-dbf8-35e5-8b30-dd05a36adedd/direxion-files-to-leverage.html",
+    "providerPublishTime": 1711136467,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/GBrijm5TdrOn38HBe3KxqQ--~B/aD01ODE7dz0xODAzO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/indexuniverse.com/7fd675e8ba76c535d2b315b8aced9eb2",
+          "width": 1803,
+          "height": 581,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/Zrb1RMfq5N6dfnD_JJDMTA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/indexuniverse.com/7fd675e8ba76c535d2b315b8aced9eb2",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "JPM"
+    ]
+  },
+  "3": {
+    "uuid": "0a34b096-5ff1-3cd3-8039-fde3927159d2",
+    "title": "JPMorgan Chase Announcement Concerning Preferred Stock",
+    "publisher": "Business Wire",
+    "link": "https://finance.yahoo.com/news/jpmorgan-chase-announcement-concerning-preferred-201800658.html",
+    "providerPublishTime": 1711052280,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/2VBilkb4584Nmnpue8RSvQ--~B/aD01MTI7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/business-wire.com/794a2880057264cf9f49279ae1b6587f",
+          "width": 1024,
+          "height": 512,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/qi7XQP8rEDzwQrulCmHOPA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/business-wire.com/794a2880057264cf9f49279ae1b6587f",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "JPM"
+    ]
+  },
+  "4": {
+    "uuid": "bcc123f2-c82c-35ba-a01a-3045261efbc3",
+    "title": "20 Largest Companies in the World by Market Cap in 2024",
+    "publisher": "Insider Monkey",
+    "link": "https://finance.yahoo.com/news/20-largest-companies-world-market-163149862.html",
+    "providerPublishTime": 1711038709,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/ZW3fq6JkBYqEx9N2Vum6qQ--~B/aD04MTY7dz0xNDU2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/410ac07c4c90786d8592963501a2ed84",
+          "width": 1456,
+          "height": 816,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/SH8gjuAbp3R4j9uwCv6JxQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/410ac07c4c90786d8592963501a2ed84",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "AAPL",
+      "GOOG",
+      "AVGO",
+      "BRK-B",
+      "TSLA",
+      "NVO",
+      "UNH",
+      "MSFT",
+      "TSM",
+      "V",
+      "LLY",
+      "WMT",
+      "MA",
+      "AMZN",
+      "XOM",
+      "JPM"
+    ]
+  },
+  "5": {
+    "uuid": "a0d4ce4b-adcc-36fe-b05a-3085eb899e4a",
+    "title": "Is JPMorgan Large Cap Growth A (OLGAX) a Strong Mutual Fund Pick Right Now?",
+    "publisher": "Zacks",
+    "link": "https://finance.yahoo.com/news/jpmorgan-large-cap-growth-olgax-110006371.html",
+    "providerPublishTime": 1711018806,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/UYup8AGIrn99rMsHiTllqA--~B/aD04NzY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/d0d4ab152198da2f423d92da8a7d22ee",
+          "width": 900,
+          "height": 876,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/XhCCCM1n.mhdk3ZYrtuYVA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/d0d4ab152198da2f423d92da8a7d22ee",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "JPM"
+    ]
+  },
+  "6": {
+    "uuid": "887b63fd-cc3d-3f59-8d09-d0a09ba69787",
+    "title": "JPMorgan weighs naming Alan Ho its new China chief, Bloomberg reports",
+    "publisher": "Reuters",
+    "link": "https://finance.yahoo.com/news/jpmorgan-weighs-naming-alan-ho-012420099.html",
+    "providerPublishTime": 1710984260,
+    "type": "STORY",
+    "relatedTickers": [
+      "JPM"
+    ]
+  },
+  "7": {
+    "uuid": "d4dea9e3-6941-397a-aae4-3d538f6fe1c5",
+    "title": "These Stocks Moved the Most Today: Chipotle, Boeing, PDD, Mobileye, Signet, Riot Platforms, BioNTech, and More",
+    "publisher": "Barrons.com",
+    "link": "https://finance.yahoo.com/m/d4dea9e3-6941-397a-aae4-3d538f6fe1c5/these-stocks-moved-the-most.html",
+    "providerPublishTime": 1710967200,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/Uu.Vlu5uQsV9s9C8fAi_sg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/a7007c3c9480d8932e59461bcc319df2",
+          "width": 1280,
+          "height": 640,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/sKC4_OxNKkfLapgdnwdfzQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/a7007c3c9480d8932e59461bcc319df2",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "NVDA",
+      "INTC",
+      "JBLU",
+      "CMG",
+      "JPM",
+      "MBLY",
+      "GIL",
+      "AMCR"
+    ]
+  }
 }

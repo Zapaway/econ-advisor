@@ -1,3 +1,245 @@
 {
-  "message": "Too many requests"
+  "0": {
+    "uuid": "2e433e16-4c14-3ebb-b8e0-779649d80849",
+    "title": "Equal-Weight RSP Boxing Out SPY, Mag 7",
+    "publisher": "etf.com",
+    "link": "https://finance.yahoo.com/m/2e433e16-4c14-3ebb-b8e0-779649d80849/equal-weight-rsp-boxing-out.html",
+    "providerPublishTime": 1710950400,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/ZYH8wDMn2hAFpfFAZkr9uQ--~B/aD04MzY7dz0xMjUzO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/indexuniverse.com/c23a9a1f8acd24a51643ef70a8f25942",
+          "width": 1253,
+          "height": 836,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/jRVUyg3CFVjkPyaXaySeJA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/indexuniverse.com/c23a9a1f8acd24a51643ef70a8f25942",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "QQQ",
+      "RSP",
+      "SPY"
+    ]
+  },
+  "1": {
+    "uuid": "2f5f6645-4032-4147-9162-679528b982f8",
+    "title": "I was there for the dot-com bust. Here's why the AI boom isn't the same.",
+    "publisher": "Yahoo Finance",
+    "link": "https://finance.yahoo.com/news/i-was-there-for-the-dot-com-bust-heres-why-the-ai-boom-isnt-the-same-175944680.html",
+    "providerPublishTime": 1710871184,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/9tL1W.c78aLDWCVgJJ7SKg--~B/aD0yMjgyO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-03/cc720100-e611-11ee-bd73-e84771e12430",
+          "width": 3000,
+          "height": 2282,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/fJZLbbpxUDkekHXw_DU1rA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2024-03/cc720100-e611-11ee-bd73-e84771e12430",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "TSLA",
+      "AMZN",
+      "QQQ",
+      "^IXIC",
+      "META",
+      "GOOG",
+      "NVDA",
+      "^GSPC",
+      "AAPL"
+    ]
+  },
+  "2": {
+    "uuid": "53860281-a5ec-3353-85df-efd14ff36dbc",
+    "title": "\"Hold Onto Your Hockey Sticks\" - Econ Data All Surprises (revised)",
+    "publisher": "Zacks",
+    "link": "https://finance.yahoo.com/news/hold-onto-hockey-sticks-econ-165400329.html",
+    "providerPublishTime": 1710435240,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/j67Cl3c.PlbQnmSNWQ4JpQ--~B/aD00MTM7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/a843b94edeae975c5a032a8415387b63",
+          "width": 620,
+          "height": 413,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/JEIXHCU3sRH.y3QwDnRLyg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/a843b94edeae975c5a032a8415387b63",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "SPY",
+      "DIA",
+      "QQQ"
+    ]
+  },
+  "3": {
+    "uuid": "83dbaf13-42bb-3255-93b6-6d96ae127ca8",
+    "title": "\"Hold Onto Your Hockey Sticks\" - Econ Data All Surprises",
+    "publisher": "Zacks",
+    "link": "https://finance.yahoo.com/news/hold-onto-hockey-sticks-econ-145100898.html",
+    "providerPublishTime": 1710427860,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/j67Cl3c.PlbQnmSNWQ4JpQ--~B/aD00MTM7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/a843b94edeae975c5a032a8415387b63",
+          "width": 620,
+          "height": 413,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/JEIXHCU3sRH.y3QwDnRLyg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/a843b94edeae975c5a032a8415387b63",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "SPY",
+      "QQQ",
+      "DIA"
+    ]
+  },
+  "4": {
+    "uuid": "bc68c1ab-d4c5-4d3b-83e4-79b9583017da",
+    "title": "Why the most 'Magnificent' stocks in the market are changing",
+    "publisher": "Yahoo Finance",
+    "link": "https://finance.yahoo.com/news/why-the-most-magnificent-stocks-in-the-market-are-changing-100025477.html",
+    "providerPublishTime": 1710410425,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/8C8gcs9zR.dj1XuRmdHAxw--~B/aD0yMDQyO3c9MzA2MzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-02/1ec9df50-d4f0-11ee-bfbf-08bdddbcd963",
+          "width": 3063,
+          "height": 2042,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/edfk1YOdep9Sf17PMkE_DQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2024-02/1ec9df50-d4f0-11ee-bfbf-08bdddbcd963",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "^GSPC",
+      "^TNX",
+      "SPY",
+      "QQQ",
+      "^DJT",
+      "^DJI",
+      "DX-Y.NYB",
+      "^IXIC"
+    ]
+  },
+  "5": {
+    "uuid": "e1942be5-834f-31d7-8c6e-e566986149a0",
+    "title": "Here Are the \"Magnificent Seven\" ETFs to Buy in 2024 \u2013 Which Is Best for You?",
+    "publisher": "Motley Fool",
+    "link": "https://finance.yahoo.com/m/e1942be5-834f-31d7-8c6e-e566986149a0/here-are-the-%22magnificent.html",
+    "providerPublishTime": 1710238020,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/KtJgDZUt2Cl2AwfbXoRv3g--~B/aD0xNDE0O3c9MjEyMTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/629e742c11bc526681e20312559c496f",
+          "width": 2121,
+          "height": 1414,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/xofOYHSt4hpZkiE_rHhieQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/629e742c11bc526681e20312559c496f",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "^GSPC",
+      "QQQ"
+    ]
+  },
+  "6": {
+    "uuid": "af27fdbb-0372-3950-ada2-4753a0ae36b5",
+    "title": "Invesco QQQ Celebrates 25 years of Access to Innovation",
+    "publisher": "PR Newswire",
+    "link": "https://finance.yahoo.com/news/invesco-qqq-celebrates-25-years-130000254.html",
+    "providerPublishTime": 1710162000,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/0859hEGIcCBeXtoo2hO5Lw--~B/aD03MDt3PTQwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/prnewswire.com/7a4d4453e519de376796372b0516e8a4",
+          "width": 400,
+          "height": 70,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/8WKzxpjkniMCrLXE4ATdrA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/prnewswire.com/7a4d4453e519de376796372b0516e8a4",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "QQQJ",
+      "QQQ",
+      "QQQS",
+      "QQQM",
+      "IVZ"
+    ]
+  },
+  "7": {
+    "uuid": "8bbf7d81-04b9-3476-bae5-19e6c0bb992d",
+    "title": "3 High-Tech ETFs to Watch Over the Coming Week",
+    "publisher": "InvestorPlace",
+    "link": "https://finance.yahoo.com/news/3-high-tech-etfs-watch-172425064.html",
+    "providerPublishTime": 1709745865,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/GF4NcPG0apBu0B8c5lkbpw--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/516afd6196125a4d5caf4a3e1ba299f6",
+          "width": 728,
+          "height": 400,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/UHZDhBod924CThFo2KuPgw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/investorplace_417/516afd6196125a4d5caf4a3e1ba299f6",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "QQQ",
+      "SOXX"
+    ]
+  }
 }

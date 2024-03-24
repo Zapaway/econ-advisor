@@ -1,3 +1,220 @@
 {
-  "message": "Too many requests"
+  "0": {
+    "uuid": "6d5c9565-548b-3938-ad43-3fd1b02a64cf",
+    "title": "If the \"Magnificent Seven\" Is So Great, Then Why Is Tesla the Worst-Performing S&P 500 Stock in 2024?",
+    "publisher": "Motley Fool",
+    "link": "https://finance.yahoo.com/m/6d5c9565-548b-3938-ad43-3fd1b02a64cf/if-the-%22magnificent-seven%22-is.html",
+    "providerPublishTime": 1711278900,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/7ALDOotiIMLgcOrETChk0A--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/f9125e03378730ff07cd06bc08d93f29",
+          "width": 1200,
+          "height": 800,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/ZHmqETtvzKb2V..FZkDk2Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/f9125e03378730ff07cd06bc08d93f29",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "TSLA",
+      "AAPL",
+      "META",
+      "MSFT",
+      "^GSPC",
+      "GOOG",
+      "AMZN",
+      "NVDA",
+      "NFLX",
+      "COMP"
+    ]
+  },
+  "1": {
+    "uuid": "4ebaa431-7249-3c76-8e5b-3de35ae5ff56",
+    "title": "The Odd Couple Steering Netflix Through a Comeback",
+    "publisher": "The Wall Street Journal",
+    "link": "https://finance.yahoo.com/m/4ebaa431-7249-3c76-8e5b-3de35ae5ff56/the-odd-couple-steering.html",
+    "providerPublishTime": 1711272600,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/DG4DCCT8SjWCVgRuqFqeNA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/the_wall_street_journal_hosted_996/b1e4822c2d699d591511ce49a340b052",
+          "width": 1280,
+          "height": 640,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/Z9VImxVDd0pOhl10h682Ng--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/the_wall_street_journal_hosted_996/b1e4822c2d699d591511ce49a340b052",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "NFLX"
+    ]
+  },
+  "2": {
+    "uuid": "358aac87-014a-3b8c-af58-2286380da90b",
+    "title": "How to Get Netflix, Hulu and Other Streaming Services to Recommend Better Shows",
+    "publisher": "The Wall Street Journal",
+    "link": "https://finance.yahoo.com/m/358aac87-014a-3b8c-af58-2286380da90b/how-to-get-netflix%2C-hulu-and.html",
+    "providerPublishTime": 1711209660,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/qyU7B4sE_YtZFRkdy_UyMg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/the_wall_street_journal_hosted_996/7592feee423bb513a90a1b3d122a3948",
+          "width": 1280,
+          "height": 640,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/gllOG9AGRPUnw0a_3nqFTA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/the_wall_street_journal_hosted_996/7592feee423bb513a90a1b3d122a3948",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "NFLX"
+    ]
+  },
+  "3": {
+    "uuid": "867a9f7f-2d37-3d7a-b9e4-1abd134a4e72",
+    "title": "Streaming costs too high? MyBundle 'shaves the cord' for consumers",
+    "publisher": "Yahoo Finance Video",
+    "link": "https://finance.yahoo.com/video/streaming-costs-too-high-mybundle-130037163.html",
+    "providerPublishTime": 1711198837,
+    "type": "VIDEO",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/y_PTvFIOb543gwY7rFQorQ--~B/aD0zMDk4O3c9NTUwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-03/c6e68430-e7ca-11ee-afeb-c272deee1ad5",
+          "width": 5500,
+          "height": 3098,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/JtbMJIhVaggH4.h_HhLOdg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2024-03/c6e68430-e7ca-11ee-afeb-c272deee1ad5",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "WBD",
+      "DIS",
+      "PARA",
+      "PARAA",
+      "PARAP",
+      "NFLX"
+    ]
+  },
+  "4": {
+    "uuid": "ddf337c9-aacc-3ab6-98c0-648825e7aa92",
+    "title": "Jerry Seinfeld is now reportedly a billionaire. But what about Larry David?",
+    "publisher": "MarketWatch",
+    "link": "https://finance.yahoo.com/m/ddf337c9-aacc-3ab6-98c0-648825e7aa92/jerry-seinfeld-is-now.html",
+    "providerPublishTime": 1711135500,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/wG85iDJAGucSBnXYXylWKQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch_hosted_869/67a7fe1d6a905775b45a1cb6b3c6b9fb",
+          "width": 1280,
+          "height": 640,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/MA67T8BVC6GXyTQpnvCFsA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch_hosted_869/67a7fe1d6a905775b45a1cb6b3c6b9fb",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "NFLX"
+    ]
+  },
+  "5": {
+    "uuid": "e70a655f-c43e-3755-aedd-180e23286f1d",
+    "title": "Nvidia Soars, Tesla Tanks. Here's How To Refine Your Stock Picks.",
+    "publisher": "Investor's Business Daily",
+    "link": "https://finance.yahoo.com/m/e70a655f-c43e-3755-aedd-180e23286f1d/nvidia-soars%2C-tesla-tanks..html",
+    "providerPublishTime": 1711132207,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/4vzxkNG3TevWYOcidx.fGw--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/153faeba12159fe7b154f60f942d1bf4",
+          "width": 1012,
+          "height": 572,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/OQAlOyyggTx_dr2Psv_bPA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/153faeba12159fe7b154f60f942d1bf4",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "NVDA",
+      "NFLX"
+    ]
+  },
+  "6": {
+    "uuid": "42722f03-89ee-32d3-b846-11c593c30924",
+    "title": "Is Reynolds Consumer Products (REYN) Outperforming Other Consumer Discretionary Stocks This Year?",
+    "publisher": "Zacks",
+    "link": "https://finance.yahoo.com/news/reynolds-consumer-products-reyn-outperforming-134011724.html",
+    "providerPublishTime": 1711114811,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/132juehTNIyEUn7pK7.GPA--~B/aD01MDY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3d7c5b2146ac04ffd51752e17ff2a619",
+          "width": 900,
+          "height": 506,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/twDpSkUZEyzUBc0qEMHAqw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/3d7c5b2146ac04ffd51752e17ff2a619",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "REYN",
+      "NFLX"
+    ]
+  },
+  "7": {
+    "uuid": "2eb2e384-e33c-328b-b484-b64d73c41a1d",
+    "title": "Netflix's '3 Body Problem' leaves jaws dropped among Chinese viewers",
+    "publisher": "Reuters",
+    "link": "https://finance.yahoo.com/news/netflixs-3-body-problem-leaves-110742720.html",
+    "providerPublishTime": 1711105662,
+    "type": "STORY",
+    "relatedTickers": [
+      "NFLX",
+      "WB",
+      "TCEHY"
+    ]
+  }
 }

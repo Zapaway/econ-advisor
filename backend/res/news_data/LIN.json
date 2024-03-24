@@ -1,3 +1,192 @@
 {
-  "message": "Too many requests"
+  "0": {
+    "uuid": "7984721e-3a3f-3de5-8df9-1868725ca166",
+    "title": "Linde plc to Join the Nasdaq-100 Index\u00ae Beginning  March 18, 2024",
+    "publisher": "GlobeNewswire",
+    "link": "https://finance.yahoo.com/news/linde-plc-join-nasdaq-100-010000306.html",
+    "providerPublishTime": 1709946000,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/fChEmk0nvV9T52WdU.9Pbw--~B/aD00Mzt3PTE1MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/globenewswire.com/c870662b5d8053bb2dfb7f7795f63c9c",
+          "width": 150,
+          "height": 43,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/bJ6NzgiMIfTnbMG_74_IZQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/c870662b5d8053bb2dfb7f7795f63c9c",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "NDAQ",
+      "^NDXT",
+      "^NDXX",
+      "^NDX",
+      "^NDXE",
+      "LIN",
+      "^NDXESG"
+    ]
+  },
+  "1": {
+    "uuid": "a57248b1-7d2d-393f-8ea1-a2e2b727a69a",
+    "title": "Linde Increases Dividend 9%",
+    "publisher": "ACCESSWIRE",
+    "link": "https://finance.yahoo.com/news/linde-increases-dividend-9-165000736.html",
+    "providerPublishTime": 1709052600,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/udiFDhM7a40CtlqYZNsD6g--~B/aD00MDA7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/accesswire.ca/3bc20d3545c35f9b58b7fd1aabe7d972",
+          "width": 400,
+          "height": 400,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/9O3p5_08qKtGO.EBKVoBfw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/accesswire.ca/3bc20d3545c35f9b58b7fd1aabe7d972",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "LIN"
+    ]
+  },
+  "2": {
+    "uuid": "5a5574a7-51c1-3be4-9293-a4e1e54ff7cb",
+    "title": "Linde Board Elects Paula Rosput Reynolds as New Director",
+    "publisher": "ACCESSWIRE",
+    "link": "https://finance.yahoo.com/news/linde-board-elects-paula-rosput-143000909.html",
+    "providerPublishTime": 1709044200,
+    "type": "STORY",
+    "relatedTickers": [
+      "LIN"
+    ]
+  },
+  "3": {
+    "uuid": "ddad8416-319d-3028-b2d2-63716241eacb",
+    "title": "Linde PLC (LIN) Reports Robust Full-Year and Q4 2023 Results",
+    "publisher": "GuruFocus.com",
+    "link": "https://finance.yahoo.com/news/linde-plc-lin-reports-robust-113207909.html",
+    "providerPublishTime": 1707219127,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/9OtEGcH2jOCQA2XApid.4Q--~B/aD01MDA7dz01MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/us.finance.gurufocus/2f484950634160af538daf6e7d4a64d7",
+          "width": 500,
+          "height": 500,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/lYga7Dq6BG6yrL8GEeAopw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/us.finance.gurufocus/2f484950634160af538daf6e7d4a64d7",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "LIN"
+    ]
+  },
+  "4": {
+    "uuid": "cebcd915-c7ac-3a36-8139-61647a525776",
+    "title": "Linde plc: Linde Reports Full-Year and Fourth-Quarter 2023 Results (Earnings Release Tables Attached)",
+    "publisher": "ACCESSWIRE",
+    "link": "https://finance.yahoo.com/news/linde-plc-linde-reports-full-111000980.html",
+    "providerPublishTime": 1707217800,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/udiFDhM7a40CtlqYZNsD6g--~B/aD00MDA7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/accesswire.ca/3bc20d3545c35f9b58b7fd1aabe7d972",
+          "width": 400,
+          "height": 400,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/9O3p5_08qKtGO.EBKVoBfw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/accesswire.ca/3bc20d3545c35f9b58b7fd1aabe7d972",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "LIN"
+    ]
+  },
+  "5": {
+    "uuid": "02420901-d099-38a7-b09a-4f1c957dfeff",
+    "title": "Linde Signs Long-Term Agreements to Purchase Renewable Energy in China",
+    "publisher": "ACCESSWIRE",
+    "link": "https://finance.yahoo.com/news/linde-signs-long-term-agreements-112000368.html",
+    "providerPublishTime": 1706786400,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/udiFDhM7a40CtlqYZNsD6g--~B/aD00MDA7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/accesswire.ca/3bc20d3545c35f9b58b7fd1aabe7d972",
+          "width": 400,
+          "height": 400,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/9O3p5_08qKtGO.EBKVoBfw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/accesswire.ca/3bc20d3545c35f9b58b7fd1aabe7d972",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "LIN"
+    ]
+  },
+  "6": {
+    "uuid": "fc4359be-adb9-301c-9934-0d2ddac95496",
+    "title": "Linde Starts up Supply of Clean Hydrogen and Captured Carbon Dioxide to Celanese",
+    "publisher": "ACCESSWIRE",
+    "link": "https://finance.yahoo.com/news/linde-starts-supply-clean-hydrogen-113000299.html",
+    "providerPublishTime": 1706614200,
+    "type": "STORY",
+    "relatedTickers": [
+      "LIN"
+    ]
+  },
+  "7": {
+    "uuid": "d062794b-77b1-3078-8d87-96fda86b6dc5",
+    "title": "Linde Expands Agreement with Steel Authority of India Limited",
+    "publisher": "ACCESSWIRE",
+    "link": "https://finance.yahoo.com/news/linde-expands-agreement-steel-authority-112000157.html",
+    "providerPublishTime": 1706181600,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/udiFDhM7a40CtlqYZNsD6g--~B/aD00MDA7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/accesswire.ca/3bc20d3545c35f9b58b7fd1aabe7d972",
+          "width": 400,
+          "height": 400,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/9O3p5_08qKtGO.EBKVoBfw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/accesswire.ca/3bc20d3545c35f9b58b7fd1aabe7d972",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "LIN"
+    ]
+  }
 }

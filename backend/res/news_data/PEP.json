@@ -1,3 +1,213 @@
 {
-  "message": "Too many requests"
+  "0": {
+    "uuid": "21a97733-2d1c-32c1-80e3-94897934dac7",
+    "title": "1 Beaten-Down S&P 500 Dividend King to Buy and Hold Forever",
+    "publisher": "Motley Fool",
+    "link": "https://finance.yahoo.com/m/21a97733-2d1c-32c1-80e3-94897934dac7/1-beaten-down-s%26p-500.html",
+    "providerPublishTime": 1711273200,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/_ytbuwQv6bYwxuxOXpcsKg--~B/aD0xNDc3O3c9MjAzMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/61332cb2fc989fb8b894051c7c3b00cf",
+          "width": 2030,
+          "height": 1477,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/PqJp3QrkhmNMhpKmw38.5g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/61332cb2fc989fb8b894051c7c3b00cf",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "PEP",
+      "^GSPC"
+    ]
+  },
+  "1": {
+    "uuid": "68f7b202-53ba-3b8a-8fe4-b07d2f6b6d82",
+    "title": "PepsiCo to invest $400 million more in two new plants in Vietnam",
+    "publisher": "Reuters",
+    "link": "https://finance.yahoo.com/news/pepsico-invest-400-million-more-044235522.html",
+    "providerPublishTime": 1711082555,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/9Pbb6ZU.IpCmD3NerVDX.Q--~B/aD01MDk7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/293ccd1370625f7170c076f452f44a32",
+          "width": 800,
+          "height": 509,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/mMwimBwrjKellCwKPPfEUg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/reuters-finance.com/293ccd1370625f7170c076f452f44a32",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "PEP"
+    ]
+  },
+  "2": {
+    "uuid": "8a461df9-91b6-30b7-be48-f947fe0b6ccf",
+    "title": "PepsiCo to invest $400 mln more in two new plants in Vietnam",
+    "publisher": "Reuters",
+    "link": "https://finance.yahoo.com/news/pepsico-invest-400-mln-more-043515218.html",
+    "providerPublishTime": 1711082115,
+    "type": "STORY",
+    "relatedTickers": [
+      "PEP"
+    ]
+  },
+  "3": {
+    "uuid": "d8790424-79f0-3a3c-81c8-04ce2083e987",
+    "title": "PepsiCo creates Flamin\u2019 Hot brand to highlight fast-growing chip flavor",
+    "publisher": "Food Dive",
+    "link": "https://finance.yahoo.com/m/d8790424-79f0-3a3c-81c8-04ce2083e987/pepsico-creates-flamin%E2%80%99-hot.html",
+    "providerPublishTime": 1711033260,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/MrJEWGg.p7tYtwvVPXU_bw--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/food_dive_848/7954e586de6b24596908cce425b918fa",
+          "width": 1280,
+          "height": 720,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/pz8pd4gJKdVlHvlS0FJX7g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/food_dive_848/7954e586de6b24596908cce425b918fa",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "PEP"
+    ]
+  },
+  "4": {
+    "uuid": "f9b038e1-cd4a-3f27-b63f-c497aabaa3e5",
+    "title": "11 Stocks that Paid Special Dividends in 2024",
+    "publisher": "Insider Monkey",
+    "link": "https://finance.yahoo.com/news/11-stocks-paid-special-dividends-140954643.html",
+    "providerPublishTime": 1711030194,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/YBQoT4eTm3PgBJ.l9nUz9Q--~B/aD0xMjgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/insidermonkey.com/d940df2e829c17173d31638432990d3d",
+          "width": 1920,
+          "height": 1280,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/872vAjM06k2WFu9B3OFmfg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/d940df2e829c17173d31638432990d3d",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "EM",
+      "SIGA",
+      "PG",
+      "RWAY",
+      "CLRO",
+      "LIAN",
+      "GRPH",
+      "PEP",
+      "CL"
+    ]
+  },
+  "5": {
+    "uuid": "ffb987b5-62c0-3fc9-bf5c-19b54cbf64b4",
+    "title": "GENYOUth AND TASTE OF THE NFL INCREASE ACCESS TO 148 MILLION SCHOOL MEALS, FOSTERING NUTRITION SECURITY AMONG STUDENTS NATIONWIDE",
+    "publisher": "PR Newswire",
+    "link": "https://finance.yahoo.com/news/genyouth-taste-nfl-increase-access-130700902.html",
+    "providerPublishTime": 1711026420,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/owso3XwCVelQ8yabe5dMqA--~B/aD0yODY7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/5d5788445ee7fc8dbbba007cbfa45649",
+          "width": 400,
+          "height": 286,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/2.DYg5N9RF0ZO6f44GO9wA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/prnewswire.com/5d5788445ee7fc8dbbba007cbfa45649",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "PNC",
+      "PEP"
+    ]
+  },
+  "6": {
+    "uuid": "f251dfb1-6e5a-3b24-a2ef-b55a014fc040",
+    "title": "PEPSICO REACHES 2025 GOAL ON WATER-USE EFFICIENCY IN HIGH WATER-RISK AREAS TWO YEARS EARLY",
+    "publisher": "PR Newswire",
+    "link": "https://finance.yahoo.com/news/pepsico-reaches-2025-goal-water-130000765.html",
+    "providerPublishTime": 1711026000,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/ksO4VjCBaRpA8Kbtbp039Q--~B/aD05Mjt3PTQwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/prnewswire.com/c6b285b18e9c529870a603ea3e7235bf",
+          "width": 400,
+          "height": 92,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/vEovdaUAT2chPCCVRbvotg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/prnewswire.com/c6b285b18e9c529870a603ea3e7235bf",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "PEP"
+    ]
+  },
+  "7": {
+    "uuid": "a1c96c8e-136e-3c90-a027-ffcd6befa2bc",
+    "title": "Pepsi takes on rival Coke\u2019s biggest client, landing its beverages and snacks in 20,000 Subway sandwich shops",
+    "publisher": "Fortune",
+    "link": "https://finance.yahoo.com/news/pepsi-takes-rival-coke-biggest-215531740.html",
+    "providerPublishTime": 1710971731,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/TiPjTwYbC.TLxNQH5M6E3g--~B/aD0xMzY1O3c9MjA0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fortune_175/f639d316547dc35f51ffcb08e38b9689",
+          "width": 2048,
+          "height": 1365,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/l3H1cauRdyBEscXELjw9CA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/fortune_175/f639d316547dc35f51ffcb08e38b9689",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "KO",
+      "PEP"
+    ]
+  }
 }

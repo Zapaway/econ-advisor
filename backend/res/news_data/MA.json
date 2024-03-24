@@ -1,3 +1,236 @@
 {
-  "message": "Too many requests"
+  "0": {
+    "uuid": "3a2c95f6-d0c5-3302-8edd-ccb70cb6fc5d",
+    "title": "Oil prices: China demand is a 'dilemma,' India may hold solution",
+    "publisher": "Yahoo Finance Video",
+    "link": "https://finance.yahoo.com/video/oil-prices-china-demand-dilemma-200553818.html",
+    "providerPublishTime": 1711137953,
+    "type": "VIDEO",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/KEmYgDZ3761PEFEq0dh90g--~B/aD0zNzg0O3c9NjcyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-03/927c4230-e887-11ee-bf9f-9c599c04005f",
+          "width": 6720,
+          "height": 3784,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/RFTIK..8kLQXy.eoElzz4g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2024-03/927c4230-e887-11ee-bf9f-9c599c04005f",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "CL=F",
+      "BZ=F"
+    ]
+  },
+  "1": {
+    "uuid": "04b7a8a7-b2ec-3d7d-9ab7-a231383239a3",
+    "title": "Oil prices under pressure as US dollar rises",
+    "publisher": "Yahoo Finance Video",
+    "link": "https://finance.yahoo.com/video/oil-prices-under-pressure-us-162332325.html",
+    "providerPublishTime": 1711124612,
+    "type": "VIDEO",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/Ga9iYSL_zPdmlOt0afsnxg--~B/aD0zMzc4O3c9NjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-03/36176d70-e865-11ee-97ff-9a098d484835",
+          "width": 6000,
+          "height": 3378,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/0gFR22nlEj2wQGCb.B6yFg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2024-03/36176d70-e865-11ee-97ff-9a098d484835",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "CL=F",
+      "DX=F",
+      "BZ=F"
+    ]
+  },
+  "2": {
+    "uuid": "6522dd34-b6ff-404d-8431-7e574058c9a8",
+    "title": "Gas tops $3.50 per gallon as oil prices rise",
+    "publisher": "Yahoo Finance",
+    "link": "https://finance.yahoo.com/news/gas-tops-350-per-gallon-as-oil-prices-rise-162038439.html",
+    "providerPublishTime": 1711124438,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/S3jnQFXLPRFmFpLhPNE6iA--~B/aD00MDE2O3c9NjAxNjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2023-09/48b018b0-561b-11ee-b7be-4d075aba9968",
+          "width": 6016,
+          "height": 4016,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/jVTsX9v3t0d0kwsB8PNH2w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2023-09/48b018b0-561b-11ee-b7be-4d075aba9968",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "RB=F",
+      "BZ=F",
+      "CL=F"
+    ]
+  },
+  "3": {
+    "uuid": "614a358b-d1c5-34a3-b927-6a543eac0566",
+    "title": "Copper deficit drives price rally, mining stocks benefit",
+    "publisher": "Yahoo Finance Video",
+    "link": "https://finance.yahoo.com/video/copper-deficit-drives-price-rally-163656428.html",
+    "providerPublishTime": 1711039016,
+    "type": "VIDEO",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/LYq7ngEm2V5d2rhdLkyfPQ--~B/aD0yNTM1O3c9NDUwNzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-03/b98b46c0-e795-11ee-bfff-392195891b11",
+          "width": 4507,
+          "height": 2535,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/2Y84vqD3BXh4YIZas9jykg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2024-03/b98b46c0-e795-11ee-bfff-392195891b11",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "TCKRF",
+      "TECK",
+      "IVPAF",
+      "CSCCF",
+      "HG=F"
+    ]
+  },
+  "4": {
+    "uuid": "04298cd4-ea95-3c71-a02c-9700bed461d9",
+    "title": "Silver ETFs may be worth their weight in gold",
+    "publisher": "Yahoo Finance Video",
+    "link": "https://finance.yahoo.com/video/silver-etfs-may-worth-weight-170442484.html",
+    "providerPublishTime": 1710954282,
+    "type": "VIDEO",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/PAjDEtClTzLdW68e9Y.L5Q--~B/aD0yMTIwO3c9Mzc2NzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-03/e5eb6dc0-e6d8-11ee-ba74-5eed8b160ad9",
+          "width": 3767,
+          "height": 2120,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/h7SAw9FT0FMOHubPVUDiLA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2024-03/e5eb6dc0-e6d8-11ee-ba74-5eed8b160ad9",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "GC=F",
+      "SI=F",
+      "SIVR",
+      "BCIM"
+    ]
+  },
+  "5": {
+    "uuid": "1197260c-9a37-4e26-93c1-80a97fb1db60",
+    "title": "Fossil fuels aren\u2019t going anywhere anytime soon, Big Energy says",
+    "publisher": "Yahoo Finance",
+    "link": "https://finance.yahoo.com/news/fossil-fuels-arent-going-anywhere-anytime-soon-big-energy-says-100046288.html",
+    "providerPublishTime": 1710928846,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/dDF8aqZzkKD2j8odeSdpPQ--~B/aD01MzMyO3c9Nzk5OTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-03/6dadab40-e659-11ee-b757-c1d13b5b2c44",
+          "width": 7999,
+          "height": 5332,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/TTfpJdOwJlNqzbctPzbCEA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2024-03/6dadab40-e659-11ee-b757-c1d13b5b2c44",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "OKE",
+      "CL=F",
+      "XOM"
+    ]
+  },
+  "6": {
+    "uuid": "2ee7777a-93ea-3a02-9b66-c5d258d1198f",
+    "title": "Oil prices: Key drivers of the rally",
+    "publisher": "Yahoo Finance Video",
+    "link": "https://finance.yahoo.com/video/oil-prices-key-drivers-rally-152012100.html",
+    "providerPublishTime": 1710861612,
+    "type": "VIDEO",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/2v0ybZWoejI4dfF0W81r6Q--~B/aD0zMzIzO3c9NTkwMjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-03/6b89f370-e602-11ee-baed-05c80346a0ce",
+          "width": 5902,
+          "height": 3323,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/arU7VleWFv3OAJ2O9dQUWQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2024-03/6b89f370-e602-11ee-baed-05c80346a0ce",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "CL=F",
+      "BZ=F"
+    ]
+  },
+  "7": {
+    "uuid": "cf126a26-8592-4508-a1b9-a4ea1d53a110",
+    "title": "ExxonMobil chief Woods calls for 'consistency' in US climate policy",
+    "publisher": "Yahoo Finance",
+    "link": "https://finance.yahoo.com/news/exxonmobil-chief-woods-calls-for-consistency-in-us-climate-policy-100022123.html",
+    "providerPublishTime": 1710842422,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/eT.muctwkwzGZAFRKPV8DA--~B/aD00MzY2O3c9NjkxNDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-03/e26273c0-e588-11ee-bfed-461e87cd259b",
+          "width": 6914,
+          "height": 4366,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/2fjEkBawiUQ0C00Z2a4t.Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2024-03/e26273c0-e588-11ee-bfed-461e87cd259b",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "BZ=F",
+      "XOM",
+      "CL=F",
+      "USO"
+    ]
+  }
 }

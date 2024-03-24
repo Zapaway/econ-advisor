@@ -1,3 +1,246 @@
 {
-  "message": "Too many requests"
+  "0": {
+    "uuid": "84f9a985-1c18-3aec-8940-2992f3df9250",
+    "title": "This AI Stock Is Lapping The Field In 2024, Even Nvidia",
+    "publisher": "Investor's Business Daily",
+    "link": "https://finance.yahoo.com/m/84f9a985-1c18-3aec-8940-2992f3df9250/this-ai-stock-is-lapping-the.html",
+    "providerPublishTime": 1711281656,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/66b.KX6W2SJivwY3uI3lWg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/245bbfacd68c5c4a79daca54e77a6904",
+          "width": 1000,
+          "height": 563,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/VPWt81DAapi9KX9euWEszg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/245bbfacd68c5c4a79daca54e77a6904",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "NVDA",
+      "SMCI",
+      "^GSPC",
+      "DECK",
+      "META",
+      "BA"
+    ]
+  },
+  "1": {
+    "uuid": "6d5c9565-548b-3938-ad43-3fd1b02a64cf",
+    "title": "If the \"Magnificent Seven\" Is So Great, Then Why Is Tesla the Worst-Performing S&P 500 Stock in 2024?",
+    "publisher": "Motley Fool",
+    "link": "https://finance.yahoo.com/m/6d5c9565-548b-3938-ad43-3fd1b02a64cf/if-the-%22magnificent-seven%22-is.html",
+    "providerPublishTime": 1711278900,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/7ALDOotiIMLgcOrETChk0A--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/f9125e03378730ff07cd06bc08d93f29",
+          "width": 1200,
+          "height": 800,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/ZHmqETtvzKb2V..FZkDk2Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/f9125e03378730ff07cd06bc08d93f29",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "TSLA",
+      "AAPL",
+      "META",
+      "MSFT",
+      "^GSPC",
+      "GOOG",
+      "AMZN",
+      "NVDA",
+      "NFLX",
+      "COMP"
+    ]
+  },
+  "2": {
+    "uuid": "b3b6e590-184c-3cc0-9bb9-175531095b7c",
+    "title": "2 Stocks That Could Create Lasting Generational Wealth",
+    "publisher": "Motley Fool",
+    "link": "https://finance.yahoo.com/m/b3b6e590-184c-3cc0-9bb9-175531095b7c/2-stocks-that-could-create.html",
+    "providerPublishTime": 1711278540,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/oe_mXYtKWEjwA.cYvzaQmQ--~B/aD04MDA7dz0xMTk5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/8e68b156e79eed12802dd7d99796f13a",
+          "width": 1199,
+          "height": 800,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/gS1B.Dt17uPxWN_auHf9Ww--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/8e68b156e79eed12802dd7d99796f13a",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "META",
+      "PLTR"
+    ]
+  },
+  "3": {
+    "uuid": "aabb32c6-533a-30e9-8c8b-a57661547f3e",
+    "title": "3 Hot Artificial Intelligence (AI) Stocks to Buy With $1,000 and Hold Forever",
+    "publisher": "Motley Fool",
+    "link": "https://finance.yahoo.com/m/aabb32c6-533a-30e9-8c8b-a57661547f3e/3-hot-artificial-intelligence.html",
+    "providerPublishTime": 1711278000,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/39oAKT0t1iMgdmgutB0kBA--~B/aD00NzM7dz03MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9dcdba9ccca004fa207ef85786054717",
+          "width": 720,
+          "height": 473,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/AJCMnlbgODCXHMLc.w8CDg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/9dcdba9ccca004fa207ef85786054717",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "QCOM",
+      "MSFT",
+      "META",
+      "NVDA",
+      "AMD"
+    ]
+  },
+  "4": {
+    "uuid": "32d96783-38f4-3a02-beda-80cc6292a323",
+    "title": "This Is the Next \"Magnificent Seven\" Stock to Pay a Dividend (and It Could Be the Biggest of the Bunch)",
+    "publisher": "Motley Fool",
+    "link": "https://finance.yahoo.com/m/32d96783-38f4-3a02-beda-80cc6292a323/this-is-the-next-%22magnificent.html",
+    "providerPublishTime": 1711274400,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/pgknR853vpb3SqBuAaMSfw--~B/aD03MTI7dz03MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/92bc4198a881c4e6961b83dae99e5a33",
+          "width": 720,
+          "height": 712,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/_sXeWBK2HcHClWdnIu6KtA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/92bc4198a881c4e6961b83dae99e5a33",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "GOOG",
+      "AAPL",
+      "MSFT",
+      "META"
+    ]
+  },
+  "5": {
+    "uuid": "8efd0a19-ac70-3645-b0c0-2d39209c7a69",
+    "title": "Should You Buy Reddit Stock After Its Sizzling IPO?",
+    "publisher": "Motley Fool",
+    "link": "https://finance.yahoo.com/m/8efd0a19-ac70-3645-b0c0-2d39209c7a69/should-you-buy-reddit-stock.html",
+    "providerPublishTime": 1711273500,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/b3dOWcN6P0dAl_dnSFnYJw--~B/aD0xNDE0O3c9MjEyMTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/e95d56d9b7b0425373e462b56323364b",
+          "width": 2121,
+          "height": 1414,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/uBQmfbpHJJzG03ZlSUfE0A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/e95d56d9b7b0425373e462b56323364b",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "RDDT",
+      "GOOG",
+      "META"
+    ]
+  },
+  "6": {
+    "uuid": "6282a243-2bbc-3e51-a689-9fb921b16cde",
+    "title": "Meta Platforms Is Up 40% This Year. Here's Why It's Still a Fantastic Buy",
+    "publisher": "Motley Fool",
+    "link": "https://finance.yahoo.com/m/6282a243-2bbc-3e51-a689-9fb921b16cde/meta-platforms-is-up-40%25-this.html",
+    "providerPublishTime": 1711191900,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/AeMivwwEv.RDylPF7GDZbg--~B/aD00NDE7dz03MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3ea1252e3c82263cc1d1e4d30287544c",
+          "width": 720,
+          "height": 441,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/9hjw74UA4G6YPmn1auuycA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/3ea1252e3c82263cc1d1e4d30287544c",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "META"
+    ]
+  },
+  "7": {
+    "uuid": "889669cf-e175-371e-971d-c392a3889b13",
+    "title": "4 Magnificent Growth Stocks You'll Regret Not Buying in the New Nasdaq Bull Market",
+    "publisher": "Motley Fool",
+    "link": "https://finance.yahoo.com/m/889669cf-e175-371e-971d-c392a3889b13/4-magnificent-growth-stocks.html",
+    "providerPublishTime": 1711184760,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/gJVcsKjJBSv3glb_r6sVmA--~B/aD05MzQ7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/055f9be9a4efddef9790a2c1d2c9cf99",
+          "width": 1400,
+          "height": 934,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/OyZYBNHy4KE2KvkzDwQ5Qg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/055f9be9a4efddef9790a2c1d2c9cf99",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "META",
+      "COMP",
+      "EXEL",
+      "PINS",
+      "S"
+    ]
+  }
 }

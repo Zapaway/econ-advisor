@@ -1,3 +1,92 @@
 {
-  "message": "You are not subscribed to this API."
+  "0": {
+    "uuid": "8619286d-bbe5-3e12-b9df-d146b2bb8cd7",
+    "title": "Bitcoin rally continues above new record $73K",
+    "publisher": "Yahoo Finance Video",
+    "link": "https://finance.yahoo.com/video/bitcoin-rally-continues-above-record-133507492.html",
+    "providerPublishTime": 1710336907,
+    "type": "VIDEO",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/ec2RGl2cqNts0u5Igd..sg--~B/aD0yNzkzO3c9NDk2NjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-03/44b5a140-e13e-11ee-8cee-5a6451c89cc3",
+          "width": 4966,
+          "height": 2793,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/XqIqJBJgvDOxjBq7CxFjgQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2024-03/44b5a140-e13e-11ee-8cee-5a6451c89cc3",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "BITC",
+      "IVV",
+      "BITW",
+      "BTC-USD",
+      "BITB",
+      "BITQ",
+      "ETH-USD",
+      "FBTC",
+      "GBTC",
+      "VITSX",
+      "VSMPX",
+      "VTI",
+      "VTSAX",
+      "VTSMX",
+      "HODL",
+      "VFIAX",
+      "VFINX",
+      "VOO",
+      "IBIT"
+    ]
+  },
+  "1": {
+    "uuid": "120bdd2d-7172-3b32-8483-e1164d354b86",
+    "title": "Bitcoin soars above record $72K: What ETF inflows look like",
+    "publisher": "Yahoo Finance Video",
+    "link": "https://finance.yahoo.com/video/bitcoin-soars-above-record-72k-154228609.html",
+    "providerPublishTime": 1710171748,
+    "type": "VIDEO",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/YFGe_Axhxoe004YzW1Kr1w--~B/aD0yOTkwO3c9NTMxMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-03/a482c2b0-dfbd-11ee-badf-556a6814d3ea",
+          "width": 5310,
+          "height": 2990,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/2qNnjmkMLzpyfPPtbAMfcg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2024-03/a482c2b0-dfbd-11ee-badf-556a6814d3ea",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "BITC",
+      "VITSX",
+      "VSMPX",
+      "VTI",
+      "VTSAX",
+      "VTSMX",
+      "FBTC",
+      "GBTC",
+      "IBIT",
+      "BITB",
+      "VFIAX",
+      "VFINX",
+      "VOO",
+      "BITW",
+      "IVV",
+      "ARKB",
+      "BTC-USD",
+      "BITQ",
+      "HODL"
+    ]
+  }
 }

@@ -1,3 +1,235 @@
 {
-  "message": "Too many requests"
+  "0": {
+    "uuid": "87ba8778-83ed-3d2d-9098-de58ffa5666a",
+    "title": "16 Most Undervalued Growth Stocks To Buy According To Hedge Funds",
+    "publisher": "Insider Monkey",
+    "link": "https://finance.yahoo.com/news/16-most-undervalued-growth-stocks-135418557.html",
+    "providerPublishTime": 1711288458,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/lcVmBXs2Y38eclv1ufkh0A--~B/aD04MTY7dz0xNDU2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/cc0361dcc815997ef6985f6bf55f4755",
+          "width": 1456,
+          "height": 816,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/R8kW79eEc2vNuziZobHlag--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/cc0361dcc815997ef6985f6bf55f4755",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "AVGO",
+      "LLY",
+      "AMD",
+      "NOW",
+      "ORCL",
+      "MRK",
+      "UBER",
+      "MA",
+      "V",
+      "BKNG"
+    ]
+  },
+  "1": {
+    "uuid": "a84d358a-8f4d-3ccd-a1d8-b7cec9d03a4a",
+    "title": "A Look At The Fair Value Of Oracle Corporation (NYSE:ORCL)",
+    "publisher": "Simply Wall St.",
+    "link": "https://finance.yahoo.com/news/look-fair-value-oracle-corporation-120036648.html",
+    "providerPublishTime": 1711281636,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/lpX7c9PHYzmCS5OHPTih9A--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/7cfe18e4eec888a4960fba10323477cb",
+          "width": 1194,
+          "height": 432,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/UAZ3yJk0gDasAh0nNzFcCQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/7cfe18e4eec888a4960fba10323477cb",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "ORCL"
+    ]
+  },
+  "2": {
+    "uuid": "7dd64106-80ee-3ffc-a3d2-867972c41e61",
+    "title": "Is Oracle a Top Cloud Stock for 2024?",
+    "publisher": "Motley Fool",
+    "link": "https://finance.yahoo.com/m/7dd64106-80ee-3ffc-a3d2-867972c41e61/is-oracle-a-top-cloud-stock.html",
+    "providerPublishTime": 1711224600,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/Ij4JW8GV09wldqe.1TpPow--~B/aD00NTY7dz03MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/bda5034202fd36f28f415b60d97fc648",
+          "width": 720,
+          "height": 456,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/csOHQgPgppVjnWmzsJoeLQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/bda5034202fd36f28f415b60d97fc648",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "ORCL",
+      "NVDA",
+      "MSFT"
+    ]
+  },
+  "3": {
+    "uuid": "5b493c63-3137-3889-aee5-f282e17887bd",
+    "title": "Oracle (ORCL) Suite Adopted by Round Rock School District Police",
+    "publisher": "Zacks",
+    "link": "https://finance.yahoo.com/news/oracle-orcl-suite-adopted-round-115000452.html",
+    "providerPublishTime": 1711108200,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/4UImlos11YVRz_bPus7vxg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/44deeada4a931587093cfb55cec8bf0e",
+          "width": 635,
+          "height": 400,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/xp29mqt8cBPUgYNg073HZg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/44deeada4a931587093cfb55cec8bf0e",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "ORCL"
+    ]
+  },
+  "4": {
+    "uuid": "ab43bbf9-53b9-3589-bd71-f96566c7be29",
+    "title": "1 Incredibly Cheap Artificial Intelligence (AI) Stock That Could Go Parabolic",
+    "publisher": "Motley Fool",
+    "link": "https://finance.yahoo.com/m/ab43bbf9-53b9-3589-bd71-f96566c7be29/1-incredibly-cheap-artificial.html",
+    "providerPublishTime": 1711096200,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/SfuLVt1PIernHi346ZAhkw--~B/aD0zODA7dz03MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b9f0f0333315cdcf6339ed18606bc364",
+          "width": 720,
+          "height": 380,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/9twINXMEv4z7nbxcnKtlwg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/b9f0f0333315cdcf6339ed18606bc364",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "ORCL"
+    ]
+  },
+  "5": {
+    "uuid": "d41525c9-7b5e-3f53-a573-2a06948c19fe",
+    "title": "Why Taiwan Semiconductor, Intel, and Other Artificial Intelligence (AI) Stocks Rallied on Thursday",
+    "publisher": "Motley Fool",
+    "link": "https://finance.yahoo.com/m/d41525c9-7b5e-3f53-a573-2a06948c19fe/why-taiwan-semiconductor%2C.html",
+    "providerPublishTime": 1711043806,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/GFQ4yA_M_JI17fV.Z1ysgQ--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/549b58a868fed2e54406d5e79d2ddf8b",
+          "width": 1400,
+          "height": 787,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/eQ6HMPXI75kxN1QmZSh5sg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/549b58a868fed2e54406d5e79d2ddf8b",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "TSM",
+      "INTC",
+      "ORCL"
+    ]
+  },
+  "6": {
+    "uuid": "501af0f0-8005-3fa5-842c-c50be16ca276",
+    "title": "Alphabet (GOOGL) Boosts Healthcare Efforts With Latest AI Move",
+    "publisher": "Zacks",
+    "link": "https://finance.yahoo.com/news/alphabet-googl-boosts-healthcare-efforts-152000634.html",
+    "providerPublishTime": 1711034400,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/rfGmDr5rdgOAA0J0dy3kpg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/76132323c88812a1d58faada145d6911",
+          "width": 635,
+          "height": 400,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/c3DKje7iu3z5otF3z2wpMQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/76132323c88812a1d58faada145d6911",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "GOOG",
+      "ORCL"
+    ]
+  },
+  "7": {
+    "uuid": "fdfc026b-4837-3362-8b2b-400e67535222",
+    "title": "Microsoft initiated, Broadcom upgraded: Wall Street's top analyst calls",
+    "publisher": "The Fly",
+    "link": "https://finance.yahoo.com/news/microsoft-initiated-broadcom-upgraded-wall-134946862.html",
+    "providerPublishTime": 1711028986,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/zUit8GQVW5kcaTZHEPMI9Q--~B/aD02Mjg7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/the_fly_169/5039a5ccc6ec98e1b92bc672330bfcec",
+          "width": 1200,
+          "height": 628,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/IPH9wCP.ftudEFOX7xr1MA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/the_fly_169/5039a5ccc6ec98e1b92bc672330bfcec",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "AVGO",
+      "MSFT",
+      "JKS",
+      "ORCL"
+    ]
+  }
 }

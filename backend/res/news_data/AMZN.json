@@ -1,3 +1,241 @@
 {
-  "message": "Too many requests"
+  "0": {
+    "uuid": "22cebed7-eaec-38d5-bfd2-9e2af9202ad2",
+    "title": "This Cloud Company Is Less Than 1% the Size of Amazon's AWS, but It's Growing Faster and It Expects Double-Digit Growth Again in 2024",
+    "publisher": "Motley Fool",
+    "link": "https://finance.yahoo.com/m/22cebed7-eaec-38d5-bfd2-9e2af9202ad2/this-cloud-company-is-less.html",
+    "providerPublishTime": 1711286940,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/jLpJVUP0mszKUZ.y6YqFSg--~B/aD00NTY7dz03MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/efc0c8f425c10f168db54c05ebd791b4",
+          "width": 720,
+          "height": 456,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/NKPnMuJS_iaZlMlDoldssA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/efc0c8f425c10f168db54c05ebd791b4",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "AMZN",
+      "DOCN"
+    ]
+  },
+  "1": {
+    "uuid": "e1f8bd85-d6da-3105-8dd5-177ef96d53ae",
+    "title": "Top 12 Stocks in George Soros\u2019 Stock Portfolio",
+    "publisher": "Insider Monkey",
+    "link": "https://finance.yahoo.com/news/top-12-stocks-george-soros-131922971.html",
+    "providerPublishTime": 1711286362,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/P0YTSsnJkrY4kP0XRUIpkA--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/c67bd4cc4c07d002689e183d1f06582b",
+          "width": 450,
+          "height": 600,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/01vdi394SlyUuyQTVQEF_g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/c67bd4cc4c07d002689e183d1f06582b",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "AMZN",
+      "UBER",
+      "BKNG",
+      "ACN",
+      "AEL",
+      "CRH",
+      "SPLK",
+      "AER"
+    ]
+  },
+  "2": {
+    "uuid": "711bebc5-5a6e-3b09-8968-e16a9855d912",
+    "title": "2 Growth Stocks to Buy and Hold Forever",
+    "publisher": "Motley Fool",
+    "link": "https://finance.yahoo.com/m/711bebc5-5a6e-3b09-8968-e16a9855d912/2-growth-stocks-to-buy-and.html",
+    "providerPublishTime": 1711278900,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/GjWP5FIxAzoYGI0DR4O4.A--~B/aD0zODA7dz03MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ef575a883fd0a59d089869f248794967",
+          "width": 720,
+          "height": 380,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/2IXlHETATCJAur8nfzDTog--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/ef575a883fd0a59d089869f248794967",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "AAPL",
+      "AMZN"
+    ]
+  },
+  "3": {
+    "uuid": "6d5c9565-548b-3938-ad43-3fd1b02a64cf",
+    "title": "If the \"Magnificent Seven\" Is So Great, Then Why Is Tesla the Worst-Performing S&P 500 Stock in 2024?",
+    "publisher": "Motley Fool",
+    "link": "https://finance.yahoo.com/m/6d5c9565-548b-3938-ad43-3fd1b02a64cf/if-the-%22magnificent-seven%22-is.html",
+    "providerPublishTime": 1711278900,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/7ALDOotiIMLgcOrETChk0A--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/f9125e03378730ff07cd06bc08d93f29",
+          "width": 1200,
+          "height": 800,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/ZHmqETtvzKb2V..FZkDk2Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/f9125e03378730ff07cd06bc08d93f29",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "TSLA",
+      "AAPL",
+      "META",
+      "MSFT",
+      "^GSPC",
+      "GOOG",
+      "AMZN",
+      "NVDA",
+      "NFLX",
+      "COMP"
+    ]
+  },
+  "4": {
+    "uuid": "a9a38e55-1fa6-3b79-9e96-e29d9134785b",
+    "title": "Forget Costco: These Unstoppable Stocks Are Better Buys",
+    "publisher": "Motley Fool",
+    "link": "https://finance.yahoo.com/m/a9a38e55-1fa6-3b79-9e96-e29d9134785b/forget-costco%3A-these.html",
+    "providerPublishTime": 1711270920,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/epxQNDao6w98VXYxLIX4vw--~B/aD00NzM7dz03MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/70b56ac2d03a7f8667466ee1852d59f7",
+          "width": 720,
+          "height": 473,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/SMKFefWF4JuwgOY5bzu71g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/70b56ac2d03a7f8667466ee1852d59f7",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "COST",
+      "AAPL",
+      "AMZN"
+    ]
+  },
+  "5": {
+    "uuid": "8c46e286-6bd6-3ffe-b2c5-b74a2f0304b2",
+    "title": "2 \"Magnificent Seven\" Stocks to Buy Hand Over Fist Right Now",
+    "publisher": "Motley Fool",
+    "link": "https://finance.yahoo.com/m/8c46e286-6bd6-3ffe-b2c5-b74a2f0304b2/2-%22magnificent-seven%22-stocks.html",
+    "providerPublishTime": 1711224600,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/0dSwEFJjTur85rj9hH6ADA--~B/aD05MzQ7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/242db798afdfb8d8d39936aade82e5ba",
+          "width": 1400,
+          "height": 934,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/0ucZlW4s0uUwF0Gq8utj0g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/242db798afdfb8d8d39936aade82e5ba",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "NVDA",
+      "AMZN"
+    ]
+  },
+  "6": {
+    "uuid": "6a36e40e-4e1d-3b43-8307-42107bd1efb6",
+    "title": "2 Stocks More Magnificent Than Amazon",
+    "publisher": "Motley Fool",
+    "link": "https://finance.yahoo.com/m/6a36e40e-4e1d-3b43-8307-42107bd1efb6/2-stocks-more-magnificent.html",
+    "providerPublishTime": 1711216800,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/gX9MkPuJoTLswjE9IzVUAg--~B/aD0xMjgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/a3a9c4c04d692ee9d43eab5c595964f5",
+          "width": 1920,
+          "height": 1280,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/e8mExxMGdMpEOXh2RjQqBQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/a3a9c4c04d692ee9d43eab5c595964f5",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "AMZN",
+      "SPG",
+      "DOCN"
+    ]
+  },
+  "7": {
+    "uuid": "11edb13c-2f51-399f-aa39-fcef3eeeef42",
+    "title": "This \"Magnificent Seven\" Stock Is Up 77% Over the Past Year, but It Could Go Much Higher",
+    "publisher": "Motley Fool",
+    "link": "https://finance.yahoo.com/m/11edb13c-2f51-399f-aa39-fcef3eeeef42/this-%22magnificent-seven%22.html",
+    "providerPublishTime": 1711203300,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/aWCBYD3OSttGucAY3aIkqQ--~B/aD00NTY7dz03MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5274f2b1520974406702b8d5e3f5037a",
+          "width": 720,
+          "height": 456,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/DZpeisdQqB6HvzfeiSNDjQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/5274f2b1520974406702b8d5e3f5037a",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "AMZN"
+    ]
+  }
 }

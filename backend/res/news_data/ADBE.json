@@ -1,3 +1,228 @@
 {
-  "message": "Too many requests"
+  "0": {
+    "uuid": "9b25fbf1-01c0-377f-92b0-325182dd2be6",
+    "title": "KeyBanc initiates coverage on Adobe at Underweight, warns of AI",
+    "publisher": "Yahoo Finance Video",
+    "link": "https://finance.yahoo.com/video/keybanc-initiates-coverage-adobe-underweight-200048938.html",
+    "providerPublishTime": 1711051248,
+    "type": "VIDEO",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/QaxIvAx_g.zHOHPh0uFZSQ--~B/aD0yMDQ4O3c9MzYzODthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-03/69f4e8b0-e7bc-11ee-bcff-ca6bae2f2d5e",
+          "width": 3638,
+          "height": 2048,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/O90WOYsVtsJrqdxty7NDCw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2024-03/69f4e8b0-e7bc-11ee-bcff-ca6bae2f2d5e",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "ADBE"
+    ]
+  },
+  "1": {
+    "uuid": "684c930d-1475-3adc-b013-ae604c056ebc",
+    "title": "AI Stocks: Tech Giants, Cloud Titans, Chipmakers Battle For An Edge",
+    "publisher": "Investor's Business Daily",
+    "link": "https://finance.yahoo.com/m/684c930d-1475-3adc-b013-ae604c056ebc/ai-stocks%3A-tech-giants%2C-cloud.html",
+    "providerPublishTime": 1711033308,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/vm6FVjWkOuw1cZ7OX4Tyxw--~B/aD01NjU7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/d7cf9ddd4d7e16b4173298be6f3ba2a3",
+          "width": 1000,
+          "height": 565,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/mNMutlziCIpgKz_62LpAFg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/d7cf9ddd4d7e16b4173298be6f3ba2a3",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "ADBE",
+      "NVDA"
+    ]
+  },
+  "2": {
+    "uuid": "9952b5e4-09f1-3eb5-a1ff-39d2d06d261c",
+    "title": "3 Artificial Intelligence (AI) Stocks to Buy Hand Over Fist in March",
+    "publisher": "Motley Fool",
+    "link": "https://finance.yahoo.com/m/9952b5e4-09f1-3eb5-a1ff-39d2d06d261c/3-artificial-intelligence.html",
+    "providerPublishTime": 1711025700,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/h9Oz6ZlDCiGxB6a.0EpyQg--~B/aD00NTY7dz03MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/394d45d230ae3592e253a9e6f59fa588",
+          "width": 720,
+          "height": 456,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/s17hfxswnYVWTKMMZOl0Ow--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/394d45d230ae3592e253a9e6f59fa588",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "ADBE",
+      "PATH",
+      "GOOG"
+    ]
+  },
+  "3": {
+    "uuid": "bf4af45f-25db-37f4-89d6-a98f528af73d",
+    "title": "Zacks Earnings Trends Highlights: Oracle, Adobe and Jabil",
+    "publisher": "Zacks",
+    "link": "https://finance.yahoo.com/news/zacks-earnings-trends-highlights-oracle-110000882.html",
+    "providerPublishTime": 1711018800,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/4UImlos11YVRz_bPus7vxg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/44deeada4a931587093cfb55cec8bf0e",
+          "width": 635,
+          "height": 400,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/xp29mqt8cBPUgYNg073HZg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/44deeada4a931587093cfb55cec8bf0e",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "JBL",
+      "ORCL",
+      "^GSPC",
+      "ADBE"
+    ]
+  },
+  "4": {
+    "uuid": "db10fd8a-8559-3d46-a450-5bb73947f74b",
+    "title": "Here's Why Adobe Systems (ADBE) is a Strong Growth Stock",
+    "publisher": "Zacks",
+    "link": "https://finance.yahoo.com/news/heres-why-adobe-systems-adbe-134510231.html",
+    "providerPublishTime": 1710942310,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/ZVGBNd2_.kAicju5mLde7g--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/71afbbc0512eb3c471136d93f39079c9",
+          "width": 900,
+          "height": 600,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/lCdXNO5h4hmjtS7ps0voGA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/71afbbc0512eb3c471136d93f39079c9",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "ADBE"
+    ]
+  },
+  "5": {
+    "uuid": "82632960-f707-3dc1-be93-ce9a501d4966",
+    "title": "Zacks.com featured highlights Carlisle, Microsoft, W.W. Grainger and Adobe",
+    "publisher": "Zacks",
+    "link": "https://finance.yahoo.com/news/zacks-com-featured-highlights-carlisle-090100586.html",
+    "providerPublishTime": 1710925260,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/NCx.D1VeFrusUjk62NhUIg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f7ee9fd1261c79c18c594e1dc7300155",
+          "width": 635,
+          "height": 400,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/lEgbbFRLhdDuqgnAqJDFSA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/f7ee9fd1261c79c18c594e1dc7300155",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "MSFT",
+      "GWW",
+      "ADBE",
+      "CSL"
+    ]
+  },
+  "6": {
+    "uuid": "4c4785de-941a-3125-abf8-e332d8a22448",
+    "title": "Adobe Stock Still Looks Extremely Overvalued",
+    "publisher": "Motley Fool",
+    "link": "https://finance.yahoo.com/m/4c4785de-941a-3125-abf8-e332d8a22448/adobe-stock-still-looks.html",
+    "providerPublishTime": 1710855986,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/hhiJ_pdMCaE38O85CT75gg--~B/aD0xNDE0O3c9MjEyMTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/e7c13dcb7337679307c047acccefe65f",
+          "width": 2121,
+          "height": 1414,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/sVcKMoVOAz3jU5oJ2PTGEw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/e7c13dcb7337679307c047acccefe65f",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "ADBE",
+      "^GSPC"
+    ]
+  },
+  "7": {
+    "uuid": "693fbeb2-56e6-3665-bfb7-3186871d76ba",
+    "title": "Investors Heavily Search Adobe Inc. (ADBE): Here is What You Need to Know",
+    "publisher": "Zacks",
+    "link": "https://finance.yahoo.com/news/investors-heavily-search-adobe-inc-130016201.html",
+    "providerPublishTime": 1710853216,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/gUf3JPAiwp3PVjuDKftvaA--~B/aD04NDU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/26a86d59f0e8f1e82a35a92ae5684cd9",
+          "width": 900,
+          "height": 845,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/HpYEBsELOHKKt9_5_oEt0Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/26a86d59f0e8f1e82a35a92ae5684cd9",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "ADBE"
+    ]
+  }
 }

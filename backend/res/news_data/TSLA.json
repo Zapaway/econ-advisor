@@ -1,3 +1,230 @@
 {
-  "message": "Too many requests"
+  "0": {
+    "uuid": "6d5c9565-548b-3938-ad43-3fd1b02a64cf",
+    "title": "If the \"Magnificent Seven\" Is So Great, Then Why Is Tesla the Worst-Performing S&P 500 Stock in 2024?",
+    "publisher": "Motley Fool",
+    "link": "https://finance.yahoo.com/m/6d5c9565-548b-3938-ad43-3fd1b02a64cf/if-the-%22magnificent-seven%22-is.html",
+    "providerPublishTime": 1711278900,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/7ALDOotiIMLgcOrETChk0A--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/f9125e03378730ff07cd06bc08d93f29",
+          "width": 1200,
+          "height": 800,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/ZHmqETtvzKb2V..FZkDk2Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/f9125e03378730ff07cd06bc08d93f29",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "TSLA",
+      "AAPL",
+      "META",
+      "MSFT",
+      "^GSPC",
+      "GOOG",
+      "AMZN",
+      "NVDA",
+      "NFLX",
+      "COMP"
+    ]
+  },
+  "1": {
+    "uuid": "3ce7d1c9-a5c6-39c5-aa87-7a13a2c16297",
+    "title": "Tesla Vs. BYD: Tesla Struggles As Analysts Slash Estimates; BYD Gains Edge In EV Price War",
+    "publisher": "Investor's Business Daily",
+    "link": "https://finance.yahoo.com/m/3ce7d1c9-a5c6-39c5-aa87-7a13a2c16297/tesla-vs.-byd%3A-tesla.html",
+    "providerPublishTime": 1711221207,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/AqecjuEo4.rgzjZd7S3Frw--~B/aD01OTk7dz0xMDYwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/9beb2410804b7918164785e9f03b9e24",
+          "width": 1060,
+          "height": 599,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/u1y4L0JwFwLXoycxYuKIdA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/9beb2410804b7918164785e9f03b9e24",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "TSLA",
+      "BYDDY"
+    ]
+  },
+  "2": {
+    "uuid": "2868b008-74b4-303f-abbf-0f6b8db35826",
+    "title": "Tesla boss Elon Musk trolls Boeing, but it\u2019s his own growth story where the wheels are coming off",
+    "publisher": "Fortune",
+    "link": "https://finance.yahoo.com/news/tesla-boss-elon-musk-trolls-163513111.html",
+    "providerPublishTime": 1711211713,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/p.s89vo3cMm5PW30vavYIQ--~B/aD0xMzY1O3c9MjA0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fortune_175/192b49faf266c243789d4c9e6702a10d",
+          "width": 2048,
+          "height": 1365,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/oRe58GCgkRMA5D.R_5GPqw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/fortune_175/192b49faf266c243789d4c9e6702a10d",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "TSLA",
+      "BA"
+    ]
+  },
+  "3": {
+    "uuid": "df0c2fba-a92c-32b9-aebe-b4ff6c6b2c90",
+    "title": "Will Nvidia Stock Crash Like Tesla? 3 Points To Consider",
+    "publisher": "Motley Fool",
+    "link": "https://finance.yahoo.com/m/df0c2fba-a92c-32b9-aebe-b4ff6c6b2c90/will-nvidia-stock-crash-like.html",
+    "providerPublishTime": 1711191600,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/RAe_Kal4y.0.fFSgilzSYA--~B/aD0zNjY3O3c9NTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/4cdd5e94075d4380d264588ffb8a6544",
+          "width": 5500,
+          "height": 3667,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/.N6NRYezmr2ghbeQXkFEpA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/4cdd5e94075d4380d264588ffb8a6544",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "NVDA",
+      "TSLA"
+    ]
+  },
+  "4": {
+    "uuid": "4c2dd071-a59c-382c-b081-7005edb7ec60",
+    "title": "1 Magnificent Stock Near 52-Week Lows to Buy Today",
+    "publisher": "Motley Fool",
+    "link": "https://finance.yahoo.com/m/4c2dd071-a59c-382c-b081-7005edb7ec60/1-magnificent-stock-near.html",
+    "providerPublishTime": 1711178940,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/Leu18SSoB8jb.AAEq8fnDA--~B/aD04NDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/11b310f3e4685ba34e403c00e6b1deac",
+          "width": 1400,
+          "height": 840,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/s30Ck_Z023FPVN7Bue2I.Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/11b310f3e4685ba34e403c00e6b1deac",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "TSLA"
+    ]
+  },
+  "5": {
+    "uuid": "83c45a2a-269b-3ce4-b03a-09f2d6157cfc",
+    "title": "Where Will Tesla Stock Be in 1 Year?",
+    "publisher": "Motley Fool",
+    "link": "https://finance.yahoo.com/m/83c45a2a-269b-3ce4-b03a-09f2d6157cfc/where-will-tesla-stock-be-in.html",
+    "providerPublishTime": 1711144154,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/PaUSFxlIUqk9Nk5jMKe.0g--~B/aD0xMjAwO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/86a6b448a30976810e506adf7bb8b260",
+          "width": 2000,
+          "height": 1200,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/VmdF9.Xs4f77lU2kJAYrsw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/86a6b448a30976810e506adf7bb8b260",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "TSLA"
+    ]
+  },
+  "6": {
+    "uuid": "1c0c4271-7fe7-346e-b765-d0fba9f8a28e",
+    "title": "Biden administration urges US Supreme Court to reject Musk appeal in SEC dispute",
+    "publisher": "Reuters",
+    "link": "https://finance.yahoo.com/news/biden-administration-urges-us-supreme-214251895.html",
+    "providerPublishTime": 1711143771,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/cgGpwHzMGlFr9.E2S6_7VA--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/6401950e2eb638c8b2ea94904b047838",
+          "width": 800,
+          "height": 533,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/rlV.3eXQ2yABXewx6.d39g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/reuters-finance.com/6401950e2eb638c8b2ea94904b047838",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "TSLA"
+    ]
+  },
+  "7": {
+    "uuid": "a63496a5-3990-3904-b443-269f4e7ab550",
+    "title": "SEC Urges Supreme Court to Reject Musk\u2019s \u2018Twitter Sitter\u2019 Appeal",
+    "publisher": "Bloomberg",
+    "link": "https://finance.yahoo.com/news/sec-urges-supreme-court-reject-212524569.html",
+    "providerPublishTime": 1711142724,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/7BUH_sDLoK5AMDrsF.2tiQ--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/9fcba5d714e46385e2e5f0844fbd53d6",
+          "width": 2000,
+          "height": 1334,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/wXYhL9epr8eEhS4QWQ5vuw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/9fcba5d714e46385e2e5f0844fbd53d6",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "TSLA"
+    ]
+  }
 }

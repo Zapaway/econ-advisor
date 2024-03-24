@@ -1,3 +1,237 @@
 {
-  "message": "Too many requests"
+  "0": {
+    "uuid": "7d01651f-392b-3ecc-ab68-90e542021231",
+    "title": "If There Was a \"Magnificent Seven\" for Dividend Stocks, These Would Be My Top Picks",
+    "publisher": "Motley Fool",
+    "link": "https://finance.yahoo.com/m/7d01651f-392b-3ecc-ab68-90e542021231/if-there-was-a-%22magnificent.html",
+    "providerPublishTime": 1711206960,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/I6t_d2akjCgnn5fp7Yl7VQ--~B/aD04MDA7dz0xMTk5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/0f035422ed965ed2a38f1d7c8b488ddb",
+          "width": 1199,
+          "height": 800,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/eiB6trelXcU.aPaH7uDJAw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/0f035422ed965ed2a38f1d7c8b488ddb",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "UPS",
+      "CVX",
+      "JPM",
+      "HD",
+      "PG",
+      "MSFT"
+    ]
+  },
+  "1": {
+    "uuid": "0e345398-8ea0-38be-9155-c5078e078a53",
+    "title": "Why Apple Will Prevail",
+    "publisher": "Barrons.com",
+    "link": "https://finance.yahoo.com/m/0e345398-8ea0-38be-9155-c5078e078a53/why-apple-will-prevail.html",
+    "providerPublishTime": 1711148280,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/686i4IR7.st8X0T5pNQwbQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/01798ea1d8ff55d9bee48065a5bbde05",
+          "width": 1280,
+          "height": 640,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/AR9c3Ee6ku0k.._tW71tsQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/01798ea1d8ff55d9bee48065a5bbde05",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "AAPL",
+      "KMX",
+      "AMP",
+      "HD"
+    ]
+  },
+  "2": {
+    "uuid": "30f2da7e-67bd-3460-be7e-98501c309e38",
+    "title": "1 No-Brainer Dividend Stock to Buy Now With $100 and Hold Through 2024 (and Beyond)",
+    "publisher": "Motley Fool",
+    "link": "https://finance.yahoo.com/m/30f2da7e-67bd-3460-be7e-98501c309e38/1-no-brainer-dividend-stock.html",
+    "providerPublishTime": 1711111500,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/N4ze1lUrRA83zSjqR2_ZLg--~B/aD0zNjY3O3c9NTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/756d20f695029c0c151fff6d19824d00",
+          "width": 5500,
+          "height": 3667,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/H4RhOtTXv7_ymSrfI3jILQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/756d20f695029c0c151fff6d19824d00",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "HD"
+    ]
+  },
+  "3": {
+    "uuid": "b86fe77f-f2c3-3714-89dc-3200796e2ced",
+    "title": "The Home Depot Expands Pro Ecosystem With Four New Distribution Centers Designed To Bring Convenience and Reliability to Pro Customers",
+    "publisher": "ACCESSWIRE",
+    "link": "https://finance.yahoo.com/news/home-depot-expands-pro-ecosystem-190000854.html",
+    "providerPublishTime": 1711047600,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/4RIL97b.1VF9zYzvlD_6rA--~B/aD00MDA7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/accesswire.ca/e3649905b0cb7cbfd363984b7dbdd4f7",
+          "width": 400,
+          "height": 400,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/k71XuLXoPPp7OuxB9LbNMA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/accesswire.ca/e3649905b0cb7cbfd363984b7dbdd4f7",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "HD"
+    ]
+  },
+  "4": {
+    "uuid": "bc21e319-171d-388c-9847-22db0a09d4c9",
+    "title": "Why Is Home Depot (HD) Up 5.6% Since Last Earnings Report?",
+    "publisher": "Zacks",
+    "link": "https://finance.yahoo.com/news/why-home-depot-hd-5-153032297.html",
+    "providerPublishTime": 1711035032,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/w.ILboV799eZj6zbyZJ3SQ--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/5ecaf2a9bf082a5f3a554e6526b34be0",
+          "width": 900,
+          "height": 601,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/8iH7sUYRxbYanfZU7fLgpA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/5ecaf2a9bf082a5f3a554e6526b34be0",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "HD"
+    ]
+  },
+  "5": {
+    "uuid": "48a23ced-69f9-3c24-bf40-8da6912d98a8",
+    "title": "16 Best Passive Income Stocks To Buy According to Hedge Funds",
+    "publisher": "Insider Monkey",
+    "link": "https://finance.yahoo.com/news/16-best-passive-income-stocks-140023724.html",
+    "providerPublishTime": 1711029623,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/Gi5L3S49LGxqTv.eHTqzQg--~B/aD0xMjc1O3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/insidermonkey.com/49de360447d6c3bc2d07313db7578ad2",
+          "width": 1920,
+          "height": 1275,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/nCD0k483atoARoYCbcafRg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/49de360447d6c3bc2d07313db7578ad2",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "QCOM",
+      "CVX",
+      "JNJ",
+      "ABBV",
+      "HD",
+      "^GSPC",
+      "AVGO",
+      "PM",
+      "PG",
+      "LOW",
+      "NKE"
+    ]
+  },
+  "6": {
+    "uuid": "9df13461-4873-3b1c-a39e-b82bab2314db",
+    "title": "The Home Depot to Present at the 10th Annual J.P. Morgan Retail Round-Up Conference",
+    "publisher": "PR Newswire",
+    "link": "https://finance.yahoo.com/news/home-depot-present-10th-annual-120000450.html",
+    "providerPublishTime": 1711022400,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/wy4YmSZZ7VgP8I8w5SFVZQ--~B/aD00MDA7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/6d86ee3880c659677a59471f0a4ea18b",
+          "width": 400,
+          "height": 400,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/e7Yp7r.BIhwfxpjIf8HHCw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/prnewswire.com/6d86ee3880c659677a59471f0a4ea18b",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "HD"
+    ]
+  },
+  "7": {
+    "uuid": "1c469707-616a-32e7-a81f-7d55a4284732",
+    "title": "3 Phenomenal Stocks That Pay Investors More Every Year",
+    "publisher": "Motley Fool",
+    "link": "https://finance.yahoo.com/m/1c469707-616a-32e7-a81f-7d55a4284732/3-phenomenal-stocks-that-pay.html",
+    "providerPublishTime": 1711017000,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/eS7zRQEma90aeq8T3RfjdQ--~B/aD0xNTAzO3c9MTk5NTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/86aa97ff10ae2d5cdda21cc62fa013a1",
+          "width": 1995,
+          "height": 1503,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/LzpxWr08KzGrDOFUI8Zk4w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/86aa97ff10ae2d5cdda21cc62fa013a1",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "O",
+      "HD"
+    ]
+  }
 }

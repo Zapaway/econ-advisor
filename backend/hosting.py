@@ -49,7 +49,7 @@ def getJawandArticle(ticker:str):
 
 def getArticleData(ticker):
 	url = f"https://yahoo-finance127.p.rapidapi.com/news/{ticker.lower()}"
-	print(os.environ["X-RapidAPI-Key"])
+	# print(os.environ["X-RapidAPI-Key"])
 	headers = {
 		"X-RapidAPI-Key": os.environ["X-RapidAPI-Key"],
 		"X-RapidAPI-Host": "yahoo-finance127.p.rapidapi.com"
@@ -62,8 +62,10 @@ def getArticleData(ticker):
 with open('res/tickers.txt', 'r') as f:
 	tickers = f.read().split('\n')
 	for ticker in tickers:
-		getArticleData(ticker)
-		sleep(5)
+		# check not already in news data
+		if not os.path.exists(f"res/news_data/{ticker}.json"):
+			getArticleData(ticker)
+			sleep(0.5)
 
 def getJawandStats(ticker:str):
 	return_str = ""

@@ -1,3 +1,148 @@
 {
-  "message": "Too many requests"
+  "0": {
+    "uuid": "fa876038-9f96-325c-be5f-ef2f1ca12bf0",
+    "title": "From Nvidia's new chip to Reddit's IPO: What you missed this week",
+    "publisher": "Yahoo Finance Video",
+    "link": "https://finance.yahoo.com/video/nvidias-chip-reddits-ipo-missed-223424013.html",
+    "providerPublishTime": 1711146864,
+    "type": "VIDEO",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/lm17eWUxt7tCa7upgo41gw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-03/3e849df0-e88f-11ee-8e3d-fd844f640e60",
+          "width": 1920,
+          "height": 1080,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/F7FmINQsCaz6IqozJXO5BA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2024-03/3e849df0-e88f-11ee-8e3d-fd844f640e60",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "BTC-USD",
+      "OXY",
+      "OXY-WS",
+      "NVDA",
+      "CDNS",
+      "SNPS",
+      "RDDT",
+      "XOM"
+    ]
+  },
+  "1": {
+    "uuid": "184f7042-1d5d-3c41-9f4c-fe8be8034b23",
+    "title": "ExxonMobil (XOM) Speeds Up Plan to Double Its LNG Portfolio",
+    "publisher": "Zacks",
+    "link": "https://finance.yahoo.com/news/exxonmobil-xom-speeds-plan-double-163000600.html",
+    "providerPublishTime": 1711125000,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/xZ9wY7_RPTPrYPVqTYHW9g--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/b81ac34444d94825c1ca7ea33d2f8831",
+          "width": 635,
+          "height": 400,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/mz.jFndPlnOTvSNgsS60Ag--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/b81ac34444d94825c1ca7ea33d2f8831",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "XOM"
+    ]
+  },
+  "2": {
+    "uuid": "899fa833-7c9a-3205-b4b9-0d7a0d5bfbf3",
+    "title": "CORRECTED-UPDATE 2-Sustainable aviation fuel costs must be lower, Exxon VP says",
+    "publisher": "Reuters",
+    "link": "https://finance.yahoo.com/news/1-sustainable-aviation-fuel-costs-143005564.html",
+    "providerPublishTime": 1711117805,
+    "type": "STORY",
+    "relatedTickers": [
+      "XOM"
+    ]
+  },
+  "3": {
+    "uuid": "58997e3a-889d-3dd9-8c08-4a7e12e588a5",
+    "title": "Exxon executive says working to minimize sustainable aviation fuel costs",
+    "publisher": "Reuters",
+    "link": "https://finance.yahoo.com/news/exxon-executive-says-working-minimize-133624557.html",
+    "providerPublishTime": 1711114584,
+    "type": "STORY",
+    "relatedTickers": [
+      "XOM"
+    ]
+  },
+  "4": {
+    "uuid": "40a48f48-2172-3a3c-a61a-fd034a9667cf",
+    "title": "RPT-CERAWEEK-Exxon ahead of schedule on doubling LNG portfolio, exec says",
+    "publisher": "Reuters",
+    "link": "https://finance.yahoo.com/news/rpt-ceraweek-exxon-ahead-schedule-100000312.html",
+    "providerPublishTime": 1711101600,
+    "type": "STORY",
+    "relatedTickers": [
+      "XOM"
+    ]
+  },
+  "5": {
+    "uuid": "f3d2ff82-daf6-3869-894a-bb11124939d7",
+    "title": "10 Best Performing Energy Stocks Right Now",
+    "publisher": "Insider Monkey",
+    "link": "https://finance.yahoo.com/news/10-best-performing-energy-stocks-062536121.html",
+    "providerPublishTime": 1711088736,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/10cgyfp90cdmFKmJOwlOkg--~B/aD04MTY7dz0xNDU2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/29ea1683c29060520e48b3a75f63d329",
+          "width": 1456,
+          "height": 816,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/h6WvgWbIDpPt1uU.dqNHaA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/29ea1683c29060520e48b3a75f63d329",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "CVX",
+      "XOM",
+      "AROC",
+      "CCLP"
+    ]
+  },
+  "6": {
+    "uuid": "f0627293-d7c0-3d1a-a6b6-c1ca18387214",
+    "title": "UPDATE 1-CERAWEEK-Exxon ahead of schedule on doubling LNG portfolio, exec says",
+    "publisher": "Reuters",
+    "link": "https://finance.yahoo.com/news/1-ceraweek-exxon-ahead-schedule-232552644.html",
+    "providerPublishTime": 1711063552,
+    "type": "STORY",
+    "relatedTickers": [
+      "XOM"
+    ]
+  },
+  "7": {
+    "uuid": "fc607cbf-b945-34f9-8e63-117de1fc5b62",
+    "title": "CERAWEEK-Exxon ahead of schedule on doubling LNG portfolio, exec says",
+    "publisher": "Reuters",
+    "link": "https://finance.yahoo.com/news/ceraweek-exxon-ahead-schedule-doubling-225759568.html",
+    "providerPublishTime": 1711061879,
+    "type": "STORY",
+    "relatedTickers": [
+      "XOM"
+    ]
+  }
 }
