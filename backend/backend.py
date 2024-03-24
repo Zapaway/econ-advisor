@@ -1,7 +1,6 @@
 from transformers import PegasusTokenizer, PegasusForConditionalGeneration, TFPegasusForConditionalGeneration
 import predictionguard as pg
 from sentence_transformers import SentenceTransformer
-import faiss
 import streamlit as st
 from transformers import pipeline
 

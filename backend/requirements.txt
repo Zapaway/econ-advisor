@@ -1,0 +1,7 @@
+yfinance 
+flask
+transformers
+sentencepiece
+torch
+sentence_transformers
+streamlit
