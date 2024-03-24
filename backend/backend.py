@@ -3,6 +3,7 @@ import predictionguard as pg
 from sentence_transformers import SentenceTransformer
 import streamlit as st
 from transformers import pipeline
+import request 
 
 def summarizeText(text_to_summarize):
 	MAX_OUTPUT_TOKENS = 64
@@ -48,6 +49,11 @@ ticker_fact_sheet = "Annual Dividend Yield: 6% ($13/share); EPS: -$0.02"
 def summarize():
 	return summarizeText(ticker_fact_sheet)
 
+@app.route('/getTickers')
+def getTickers():
+	risk = request.form['risk']
+	timeframe = request.form['timeframe']
+	
 
 summarizer_model_name = "human-centered-summarization/financial-summarization-pegasus"
 summarizer_tokenizer = PegasusTokenizer.from_pretrained(summarizer_model_name)
