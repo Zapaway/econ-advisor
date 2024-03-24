@@ -1,33 +1,3 @@
-ja = '''Can Upstart Holdings (NASDAQ: UPST) stock make a comeback? After six consecutive quarters of falling revenue, investors are losing confidence in the fintech. The stock took some wild swings over the past few years, but it's down 36% in 2024. At this level, is Upstart stock a value trap or an incredible opportunity?
-
-It's the credit evaluation platform of the future...
-Upstart gained a legion of fans when it debuted on the market in late 2020. It seemed like a no-brainer buy. The fintech company operates a credit evaluation platform that uses artificial intelligence (AI) to more accurately assess would-be borrowers' credit risk, resulting in higher rates of loan approvals without increased risk to the lender.
-
-Most lenders still use the traditional FICO credit score model, which hasn't changed much in decades. Upstart's technology can truly change the game and achieve better outcomes for both borrowers and lenders.
-
-Upstart has been signing on more partner banks and credit unions, and it has also added an auto lending segment. For a time, its revenue was increasing by triple-digit percentages, and profit was soaring. Investors wanted in on this opportunity, and the stock skyrocketed.
-
-In hindsight, the meteoric rise of Upstart stock, which pushed its price-to-earnings ratio above 400, was a setup for a fall.
-
-It's having a tough time right now
-As a lending platform, Upstart is ultra-sensitive to changes in interest rates. When interest rates were low, it was easy for its model to identify good borrowers. Lower rates mean reduced chances of a default. With higher rates, there are several factors working against it. Fewer borrowers can afford to take on loans at those rates; banks are more cautious about approving loans; and since the odds of default are higher, Upstart's model identifies fewer qualified borrowers.
-
-As a result, Upstart's revenue fell off a cliff, and earnings turned into losses. In 2023's fourth quarter, revenue declined 4% year over year -- and that was on top of a decline in 2022's Q4. Its net loss for the most recent quarter came in at $42.4 million, better than its $55.3 million loss in the prior-year period, but still discouraging for investors.
-
-Upstart says its model is working better than the traditional model, even in the current economic climate.
-
-Upstart approvals.
-Image source: Upstart Holdings.
-It has more than 100 lending partners, and its recently launched home equity product is now offered in 12 markets. Mortgages are its largest total addressable market, with a $1.5 trillion annual opportunity. The company is also working on bundling its products to generate higher engagement and growth.
-
-Is there any hope for Upstart this year?
-Management is forecasting revenue of $125 million in the first quarter, up by about 21% over the prior-year period. That would, however, still be well below its top-line result in Q1 2022.
-
-The long-term story hasn't changed and still looks compelling. Upstart's model may eventually replace the traditional credit scoring model, and when interest rates fall, its business is likely to benefit. Once Upstart has more years in operation under its belt, these kinds of cycles may be less disruptive for its business.
-
-Upstart currently trades at a price-to-sales ratio of 4. That's not expensive, but it doesn't look like a bargain for a company that's under pressure and reporting declining revenue and net losses.
-
-I think you'd have to have a strong appetite for risk to buy Upstart stock right now. There could be more wild swings before it begins to trend significantly upward. During that time, you could make your money work more effectively in stocks with clearer paths forward. Keep an eye on Upstart stock, though -- it may turn into a better opportunity soon.'''
 from transformers import PegasusTokenizer, PegasusForConditionalGeneration, TFPegasusForConditionalGeneration
 import predictionguard as pg
 from sentence_transformers import SentenceTransformer
@@ -152,8 +122,6 @@ app.config["CORS_HEADERS"] = "Content-Type"
 # @app.route("/")
 # def home():
 # 	return "Dog"
-article_body = "I shit my pants last night. This resulted in an estimated loss of $5.2 bn. Investors are devastated. The projected revenue drop is $2 mn over the next year."
-ticker_fact_sheet = "Annual Dividend Yield: 6% ($13/share); EPS: -$0.02"
 
 @app.route("/blurb")
 @cross_origin()
