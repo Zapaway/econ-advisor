@@ -3,7 +3,7 @@ import predictionguard as pg
 from sentence_transformers import SentenceTransformer
 import streamlit as st
 from transformers import pipeline
-import requests
+from flask import request
 import json
 
 def summarizeText(text_to_summarize):

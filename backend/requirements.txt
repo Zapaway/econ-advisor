@@ -6,4 +6,3 @@ torch
 sentence_transformers
 streamlit
 predictionguard
-requests
