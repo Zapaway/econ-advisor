@@ -22,14 +22,6 @@ const router = createBrowserRouter([
         path: "/",
         element: <Dashboard />,
       },
-      {
-        path: "/google-home",
-        element: <GoogleHome />,
-      },
-      {
-        path: "/robinhood",
-        element: <Robinhood />,
-      },
     ],
   },
 ]);
