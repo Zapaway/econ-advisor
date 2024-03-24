@@ -1,6 +1,9 @@
 from transformers import PegasusTokenizer, PegasusForConditionalGeneration, TFPegasusForConditionalGeneration
-
-
+import predictionguard as pg
+from sentence_transformers import SentenceTransformer
+import faiss
+import streamlit as st
+from transformers import pipeline
 
 def summarizeText(text_to_summarize):
 	MAX_OUTPUT_TOKENS = 64
@@ -25,9 +28,13 @@ def summarizeText(text_to_summarize):
 	    early_stopping=True
 	)
 
+	sentiment_pipeline = pipeline("text-classification")  #Pretty much all we need but still experimenting with it
+	sentiment_result = sentiment_pipeline(article_body)
+
 	# Finally, we can print the generated summary
-	return (tokenizer.decode(output[0], skip_special_tokens=True))
+	return (tokenizer.decode(output[0], skip_special_tokens=True), sentiment_result)
 	# Generated Output: Saudi bank to pay a 3.5% premium to Samba share price. Gulf region’s third-largest lender will have total assets of $220 billion
+
 
 
 from flask import Flask
@@ -35,15 +42,16 @@ app = Flask(__name__)
 # @app.route("/")
 # def home():
 # 	return "Dog"
+article_body = "I shit my pants last night. This resulted in an estimated loss of $5.2 bn. Investors are devastated. The projected revenue drop is $2 mn over the next year."
+ticker_fact_sheet = "Annual Dividend Yield: 6% ($13/share); EPS: -$0.02"
+
 @app.route("/summarize")
 def summarize():
-	return summarizeText("I shit my pants last night. This resulted in an estimated loss of $5.2 bn. Investors are devastated. The projected revenue drop is $2 mn over the next year.")
+	return summarizeText(ticker_fact_sheet)
 
 
 summarizer_model_name = "human-centered-summarization/financial-summarization-pegasus"
 summarizer_tokenizer = PegasusTokenizer.from_pretrained(summarizer_model_name)
 summarizer_model = PegasusForConditionalGeneration.from_pretrained(summarizer_model_name)
-
-
 
 app.run(host="0.0.0.0", debug = True)
