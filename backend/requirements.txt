@@ -9,3 +9,4 @@ predictionguard
 vertexai
 urllib
 beautifulsoup4
+requests
