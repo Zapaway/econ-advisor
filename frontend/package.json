@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@browsery/util": "^0.12.5",
+    "axios": "^1.6.8",
     "bluebird": "^3.7.2",
     "localforage": "^1.10.0",
     "match-sorter": "^6.3.4",

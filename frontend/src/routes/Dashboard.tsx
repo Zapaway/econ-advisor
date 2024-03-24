@@ -1,5 +1,9 @@
+import axios from "axios";
 import { useEffect, useState } from "react";
 import { useForm, SubmitHandler } from "react-hook-form";
+
+
+const LOCALHOST = "place your URL here";
 
 
 interface FormInput {
@@ -18,35 +22,37 @@ export default function Dashboard() {
         watch,
         formState: { errors },
       } = useForm<FormInput>();
-      const onSubmit: SubmitHandler<FormInput> = (data) => setRes(parse_stocks(data.risk, data.timeframe) ?? null);
+      const onSubmit: SubmitHandler<FormInput> = async (data) => {
+        const res = await axios.get(`${LOCALHOST}/getTickers`, { params: data });
+        setRes(res.data);
+      };
       
-      const [stocks, setStocks] = useState<Record<string, Stock> | null>();
       const [res, setRes] = useState<string[] | null>(null);
     
       // parses the stocks in stocks.json to get the stock symbols associated with a risk/timeframe
-      const parse_stocks = (risk: string, timeframe: string) => {
-        if (!stocks) return;
+      // const parse_stocks = (risk: string, timeframe: string) => {
+      //   if (!stocks) return;
     
-        const stockSymbols: string[] = [];
-        for (let ticker of Object.keys(stocks)) {
-          if (
-            stocks[ticker].ideal_risks.includes(risk) &&
-            stocks[ticker].ideal_timeframes.includes(timeframe)
-          ) {
-            stockSymbols.push(ticker);
-          }
-        }
-        return stockSymbols;
-      };
+      //   const stockSymbols: string[] = [];
+      //   for (let ticker of Object.keys(stocks)) {
+      //     if (
+      //       stocks[ticker].ideal_risks.includes(risk) &&
+      //       stocks[ticker].ideal_timeframes.includes(timeframe)
+      //     ) {
+      //       stockSymbols.push(ticker);
+      //     }
+      //   }
+      //   return stockSymbols;
+      // };
     
-      useEffect(() => {
-        (async () => {
-          const response = await fetch('/stocks.json');
-          // const data = await readFile("stocks.json", "utf8");
-          const stocks: Record<string, Stock> = await response.json();
-          setStocks(stocks);
-        })();
-      }, []);
+      // useEffect(() => {
+      //   (async () => {
+      //     const response = await fetch('/stocks.json');
+      //     // const data = await readFile("stocks.json", "utf8");
+      //     const stocks: Record<string, Stock> = await response.json();
+      //     setStocks(stocks);
+      //   })();
+      // }, []);
     
       return (
         <div>
