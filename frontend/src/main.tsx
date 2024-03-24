@@ -7,6 +7,9 @@ import {
 
 import Root from "./Root.tsx";
 import "./index.css";
+import Dashboard from "./routes/Dashboard.tsx";
+import GoogleHome from "./routes/GoogleHome.tsx";
+import Robinhood from "./routes/Robinhood.tsx";
 
 
 // DEFINE ROUTES HERE
@@ -14,6 +17,20 @@ const router = createBrowserRouter([
   {
     path: "/",
     element: <Root />,
+    children: [
+      {
+        path: "/",
+        element: <Dashboard />,
+      },
+      {
+        path: "/google-home",
+        element: <GoogleHome />,
+      },
+      {
+        path: "/robinhood",
+        element: <Robinhood />,
+      },
+    ],
   },
 ]);
 

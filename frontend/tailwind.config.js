@@ -1,3 +1,6 @@
+const defaultTheme = require('tailwindcss/defaultTheme');
+
+
 /** @type {import('tailwindcss').Config} */
 export default {
   content: [
@@ -5,7 +8,11 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        spaceg: ['"Space Grotesk"', ...defaultTheme.fontFamily.sans]
+      }
+    }
   },
   plugins: [require("daisyui"),], 
   darkMode: ["selector", "[data-theme*='dark']"],
