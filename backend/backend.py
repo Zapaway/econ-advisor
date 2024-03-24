@@ -39,6 +39,7 @@ import json
 import vertexai
 from vertexai.language_models import TextGenerationModel
 import requests
+import os
 from urllib.request import Request, urlopen
 from bs4 import BeautifulSoup
 
@@ -93,9 +94,6 @@ def summarizeText(text_to_summarize, MAX_OUTPUT_TOKENS=128):
 	# Generated Output: Saudi bank to pay a 3.5% premium to Samba share price. Gulf region’s third-largest lender will have total assets of $220 billion
 
 def getJawandArticle(ticker:str):
-	import requests
-	import os 
-
 	url = f"https://yahoo-finance127.p.rapidapi.com/news/{ticker.lower()}"
 	headers = {
 		"X-RapidAPI-Key": os.environ["X-RapidAPI-Key"],
