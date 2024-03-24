@@ -14,7 +14,7 @@
             "low"
         ],
         "timeframe": [
-            "long"
+            "short"
         ]
     },
     "ADBE": {
@@ -86,7 +86,7 @@
             "low"
         ],
         "timeframe": [
-            "mid"
+            "short"
         ]
     },
     "CVX": {
@@ -104,7 +104,7 @@
             "high"
         ],
         "timeframe": [
-            "long"
+            "mid"
         ]
     },
     "GOOG": {
@@ -113,7 +113,7 @@
             "medium"
         ],
         "timeframe": [
-            "long"
+            "mid"
         ]
     },
     "GOOGL": {
@@ -122,7 +122,7 @@
             "medium"
         ],
         "timeframe": [
-            "long"
+            "mid"
         ]
     },
     "HD": {
@@ -140,7 +140,7 @@
             "low"
         ],
         "timeframe": [
-            "long"
+            "short"
         ]
     },
     "JPM": {
@@ -203,7 +203,7 @@
             "medium"
         ],
         "timeframe": [
-            "long"
+            "mid"
         ]
     },
     "MRK": {
@@ -212,7 +212,7 @@
             "low"
         ],
         "timeframe": [
-            "long"
+            "short"
         ]
     },
     "MSFT": {
@@ -248,7 +248,7 @@
             "low"
         ],
         "timeframe": [
-            "long"
+            "mid"
         ]
     },
     "PEP": {
@@ -257,7 +257,7 @@
             "low"
         ],
         "timeframe": [
-            "long"
+            "mid"
         ]
     },
     "PG": {
@@ -275,7 +275,7 @@
             "low"
         ],
         "timeframe": [
-            "long"
+            "mid"
         ]
     },
     "TSLA": {

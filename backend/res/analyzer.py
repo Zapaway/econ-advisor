@@ -17,17 +17,18 @@ with open('tickers.txt') as infile:
                 risk = 'medium'
             else:
                 risk = 'high'
-            earnings = tickerInfo['trailingPE']
+            earnings = tickerInfo['forwardPE']
             if earnings < 15:
                 term = 'short'
             elif earnings < 25:
                 term = 'mid'
             else:
                 term = 'long'
+
             ticker_info[ticker] = {
                 'name': tickerInfo['longName'],
-                'ideal_risk': [risk],
-                'ideal_timeframes': [term]
+                'risk': [risk],
+                'timeframe': [term]
             }
         except Exception as e:
             print(f"Error: {e}")
