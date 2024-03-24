@@ -20,6 +20,24 @@ def getNewsData(ticker):
 		article_title = article.find('span').text
 		print(f"Title: {article_title} Link: {article_link}")
 
+def getJawandArticle(ticker:str):
+	import requests
+	import os 
+
+	url = f"https://yahoo-finance127.p.rapidapi.com/news/{ticker.lower()}"
+	headers = {
+		"X-RapidAPI-Key": os.environ["X-RapidAPI-Key"],
+		"X-RapidAPI-Host": "yahoo-finance127.p.rapidapi.com"
+	}
+	response = requests.get(url, headers=headers)
+	data = response.json()
+
+	for key in data:
+		article_url = data[key]['link']
+		print(article_url)
+
+getJawandArticle("AAPL")
+
 @app.route('/getTickers')
 def getTickers():
 	risk = request.args['risk']
@@ -33,4 +51,4 @@ def getTickers():
 	return valid_tickers
 
 # app.run(host="0.0.0.0", debug = True)
-print(getNewsData('QQQ'))
+# print(getNewsData('QQQ'))
