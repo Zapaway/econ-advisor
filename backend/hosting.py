@@ -5,6 +5,7 @@ from urllib.request import Request, urlopen
 from bs4 import BeautifulSoup
 import requests
 import os 
+from time import sleep
 
 app = Flask(__name__)
 
@@ -62,7 +63,7 @@ with open('res/tickers.txt', 'r') as f:
 	tickers = f.read().split('\n')
 	for ticker in tickers:
 		getArticleData(ticker)
-		sleep(1)
+		sleep(5)
 
 def getJawandStats(ticker:str):
 	return_str = ""
