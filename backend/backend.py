@@ -4,7 +4,32 @@ from sentence_transformers import SentenceTransformer
 import streamlit as st
 from transformers import pipeline
 from flask import request
+from flask_cors import CORS, cross_origin
 import json
+import vertexai
+from vertexai.language_models import TextGenerationModel
+
+
+def getBlurb(
+	ticker:str,
+    investor:str,
+	stats:str,
+	articleSummary: str) -> str:
+	global genModel
+	parameters = {
+		"temperature": 0.2,  # Temperature controls the degree of randomness in token selection.
+        "max_output_tokens": 256,  # Token limit determines the maximum amount of text output.
+        "top_p": 0.8,  # Tokens are selected from most probable to least until the sum of their probabilities equals the top_p value.
+        "top_k": 40,  # A top_k of 1 means the selected token is the most probable among all tokens.
+    }
+	model = genModel
+	response = model.predict(
+		f'''{articleSummary} {stats} Explain why a {investor} would might want to invest in {ticker}. Describe the benefits and risks.''',
+		**parameters,
+	)
+	print(f"Response from Model: {response.text}")
+	return response.text
+
 
 def summarizeText(text_to_summarize):
 	MAX_OUTPUT_TOKENS = 64
@@ -35,23 +60,36 @@ def summarizeText(text_to_summarize):
 	# Finally, we can print the generated summary
 	return (tokenizer.decode(output[0], skip_special_tokens=True), sentiment_result)
 	# Generated Output: Saudi bank to pay a 3.5% premium to Samba share price. Gulf region’s third-largest lender will have total assets of $220 billion
-
-
+def getJawandArticle(ticker:str):
+	return ""
+def getJawandStats(ticker:str):
+	return ""
 
 from flask import Flask
 app = Flask(__name__)
+cors = CORS(app)
+app.config["CORS_HEADERS"] = "Content-Type"
 # @app.route("/")
 # def home():
 # 	return "Dog"
 article_body = "I shit my pants last night. This resulted in an estimated loss of $5.2 bn. Investors are devastated. The projected revenue drop is $2 mn over the next year."
 ticker_fact_sheet = "Annual Dividend Yield: 6% ($13/share); EPS: -$0.02"
 
-@app.route("/summarize")
-def summarize():
+@app.route("/blurb")
+@cross_origin()
+def blurb():
+	ticker = request.args["ticker"]
+	risk = request.args["risk"]
+	timeframe = request.args["timeframe"]
+	investor = f"investor with risk {risk} and timeframe {timeframe}"
+	article = getJawandArticle(ticker)
+	stats = getJawandStats(ticker)
+	summArticle = summarizeText(article)
+	return getBlurb(ticker, investor, stats, summArticle)
 
-	return summarizeText(request.args["text"])
 
 @app.route('/getTickers')
+@cross_origin()
 def getTickers():
 	risk = request.args['risk']
 	timeframe = request.args['timeframe']
@@ -67,5 +105,6 @@ def getTickers():
 summarizer_model_name = "human-centered-summarization/financial-summarization-pegasus"
 summarizer_tokenizer = PegasusTokenizer.from_pretrained(summarizer_model_name)
 summarizer_model = PegasusForConditionalGeneration.from_pretrained(summarizer_model_name)
-
+vertexai.init(project=1, location="us-east4")
+genModel = TextGenerationModel.from_pretrained("text-bison@002")
 app.run(host="0.0.0.0", debug = True)
