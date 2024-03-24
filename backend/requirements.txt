@@ -6,3 +6,5 @@ torch
 sentence_transformers
 streamlit
 predictionguard
+urllib
+beautifulsoup4 
