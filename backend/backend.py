@@ -45,17 +45,23 @@ def getBlurb(
 	ticker:str,
     investor:str,
 	stats:str,
-	articleSummary: str) -> str:
+	articleSummary: str, longName: str) -> str:
 	global genModel
 	parameters = {
 		"temperature": 0.2,  # Temperature controls the degree of randomness in token selection.
-        "max_output_tokens": 256,  # Token limit determines the maximum amount of text output.
-        "top_p": 0.8,  # Tokens are selected from most probable to least until the sum of their probabilities equals the top_p value.
+        "max_output_tokens": 512,  # Token limit determines the maximum amount of text output.
+        "top_p": 0.85,  # Tokens are selected from most probable to least until the sum of their probabilities equals the top_p value.
         "top_k": 40,  # A top_k of 1 means the selected token is the most probable among all tokens.
     }
+	prompt = f'''{articleSummary} 
+				{stats} 
+				Given a {investor} who might want to invest in {longName}, describe the benefits and risks of investing in this stock. 
+				Give your answer in paragraph form.
+				Make your answer as simple as possible, try explaining to someone with little to no background in investing.'''
+	print(f"Prompt: {prompt}")
 	model = genModel
 	response = model.predict(
-		f'''{articleSummary} {stats} Explain why a {investor} would might want to invest in {ticker}. Describe the benefits and risks. Give your answer in paragraph form.''',
+		prompt,
 		**parameters,
 	)
 	print(f"Response from Model: {response.text}")
@@ -88,7 +94,7 @@ def summarizeText(text_to_summarize, MAX_OUTPUT_TOKENS=128):
 	# sentiment_result = sentiment_pipeline(article_body)
 
 	# Finally, we can print the generated summary
-	return tokenizer.decode(output[0], skip_special_tokens=False)#, sentiment_result)[0]
+	return tokenizer.decode(output[0], skip_special_tokens=True)#, sentiment_result)[0]
 	# Generated Output: Saudi bank to pay a 3.5% premium to Samba share price. Gulf region’s third-largest lender will have total assets of $220 billion
 
 def getJawandArticle(ticker:str):
@@ -154,12 +160,13 @@ ticker_fact_sheet = "Annual Dividend Yield: 6% ($13/share); EPS: -$0.02"
 def blurb():
 	ticker = request.args["ticker"]
 	risk = request.args["risk"]
+	print(f"Received ticker {ticker}")
 	timeframe = request.args["timeframe"]
-	investor = f"investor with risk {risk} and timeframe {timeframe}"
+	investor = f"investor with {risk} risk and over a {timeframe} timeframe"
 	articleTuples = getJawandArticle(ticker)
 	stats = getJawandStats(ticker)
 	summArticle, links = combineArticles(articleTuples)
-	generatedBlurb = getBlurb(ticker, investor, stats, summArticle)
+	generatedBlurb = getBlurb(ticker, investor, stats, summArticle, request.args["name"])
 	return [generatedBlurb, links]
 
 
