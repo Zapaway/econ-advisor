@@ -1,7 +1,7 @@
 {
     "AAPL": {
         "name": "Apple Inc.",
-        "ideal_ris": [
+        "ideal_risk": [
             "medium"
         ],
         "ideal_timeframes": [
@@ -10,7 +10,7 @@
     },
     "ABBV": {
         "name": "AbbVie Inc.",
-        "ideal_ris": [
+        "ideal_risk": [
             "low"
         ],
         "ideal_timeframes": [
@@ -19,7 +19,7 @@
     },
     "ADBE": {
         "name": "Adobe Inc.",
-        "ideal_ris": [
+        "ideal_risk": [
             "medium"
         ],
         "ideal_timeframes": [
@@ -28,7 +28,7 @@
     },
     "AMD": {
         "name": "Advanced Micro Devices, Inc.",
-        "ideal_ris": [
+        "ideal_risk": [
             "high"
         ],
         "ideal_timeframes": [
@@ -37,7 +37,7 @@
     },
     "AMZN": {
         "name": "Amazon.com, Inc.",
-        "ideal_ris": [
+        "ideal_risk": [
             "medium"
         ],
         "ideal_timeframes": [
@@ -46,7 +46,7 @@
     },
     "AVGO": {
         "name": "Broadcom Inc.",
-        "ideal_ris": [
+        "ideal_risk": [
             "medium"
         ],
         "ideal_timeframes": [
@@ -55,7 +55,7 @@
     },
     "BAC": {
         "name": "Bank of America Corporation",
-        "ideal_ris": [
+        "ideal_risk": [
             "high"
         ],
         "ideal_timeframes": [
@@ -64,7 +64,7 @@
     },
     "COST": {
         "name": "Costco Wholesale Corporation",
-        "ideal_ris": [
+        "ideal_risk": [
             "low"
         ],
         "ideal_timeframes": [
@@ -73,7 +73,7 @@
     },
     "CRM": {
         "name": "Salesforce, Inc.",
-        "ideal_ris": [
+        "ideal_risk": [
             "medium"
         ],
         "ideal_timeframes": [
@@ -82,7 +82,7 @@
     },
     "CSCO": {
         "name": "Cisco Systems, Inc.",
-        "ideal_ris": [
+        "ideal_risk": [
             "low"
         ],
         "ideal_timeframes": [
@@ -91,7 +91,7 @@
     },
     "CVX": {
         "name": "Chevron Corporation",
-        "ideal_ris": [
+        "ideal_risk": [
             "medium"
         ],
         "ideal_timeframes": [
@@ -100,7 +100,7 @@
     },
     "DIS": {
         "name": "The Walt Disney Company",
-        "ideal_ris": [
+        "ideal_risk": [
             "high"
         ],
         "ideal_timeframes": [
@@ -109,7 +109,7 @@
     },
     "GOOG": {
         "name": "Alphabet Inc.",
-        "ideal_ris": [
+        "ideal_risk": [
             "medium"
         ],
         "ideal_timeframes": [
@@ -118,7 +118,7 @@
     },
     "GOOGL": {
         "name": "Alphabet Inc.",
-        "ideal_ris": [
+        "ideal_risk": [
             "medium"
         ],
         "ideal_timeframes": [
@@ -127,7 +127,7 @@
     },
     "HD": {
         "name": "The Home Depot, Inc.",
-        "ideal_ris": [
+        "ideal_risk": [
             "low"
         ],
         "ideal_timeframes": [
@@ -136,7 +136,7 @@
     },
     "JNJ": {
         "name": "Johnson & Johnson",
-        "ideal_ris": [
+        "ideal_risk": [
             "low"
         ],
         "ideal_timeframes": [
@@ -145,7 +145,7 @@
     },
     "JPM": {
         "name": "JPMorgan Chase & Co.",
-        "ideal_ris": [
+        "ideal_risk": [
             "medium"
         ],
         "ideal_timeframes": [
@@ -154,7 +154,7 @@
     },
     "KO": {
         "name": "The Coca-Cola Company",
-        "ideal_ris": [
+        "ideal_risk": [
             "low"
         ],
         "ideal_timeframes": [
@@ -163,7 +163,7 @@
     },
     "LIN": {
         "name": "Linde plc",
-        "ideal_ris": [
+        "ideal_risk": [
             "low"
         ],
         "ideal_timeframes": [
@@ -172,7 +172,7 @@
     },
     "LLY": {
         "name": "Eli Lilly and Company",
-        "ideal_ris": [
+        "ideal_risk": [
             "low"
         ],
         "ideal_timeframes": [
@@ -181,7 +181,7 @@
     },
     "MA": {
         "name": "Mastercard Incorporated",
-        "ideal_ris": [
+        "ideal_risk": [
             "medium"
         ],
         "ideal_timeframes": [
@@ -190,7 +190,7 @@
     },
     "MCD": {
         "name": "McDonald's Corporation",
-        "ideal_ris": [
+        "ideal_risk": [
             "low"
         ],
         "ideal_timeframes": [
@@ -199,7 +199,7 @@
     },
     "META": {
         "name": "Meta Platforms, Inc.",
-        "ideal_ris": [
+        "ideal_risk": [
             "medium"
         ],
         "ideal_timeframes": [
@@ -208,7 +208,7 @@
     },
     "MRK": {
         "name": "Merck & Co., Inc.",
-        "ideal_ris": [
+        "ideal_risk": [
             "low"
         ],
         "ideal_timeframes": [
@@ -217,7 +217,7 @@
     },
     "MSFT": {
         "name": "Microsoft Corporation",
-        "ideal_ris": [
+        "ideal_risk": [
             "low"
         ],
         "ideal_timeframes": [
@@ -226,7 +226,7 @@
     },
     "NFLX": {
         "name": "Netflix, Inc.",
-        "ideal_ris": [
+        "ideal_risk": [
             "medium"
         ],
         "ideal_timeframes": [
@@ -235,7 +235,7 @@
     },
     "NVDA": {
         "name": "NVIDIA Corporation",
-        "ideal_ris": [
+        "ideal_risk": [
             "high"
         ],
         "ideal_timeframes": [
@@ -244,7 +244,7 @@
     },
     "ORCL": {
         "name": "Oracle Corporation",
-        "ideal_ris": [
+        "ideal_risk": [
             "low"
         ],
         "ideal_timeframes": [
@@ -253,7 +253,7 @@
     },
     "PEP": {
         "name": "PepsiCo, Inc.",
-        "ideal_ris": [
+        "ideal_risk": [
             "low"
         ],
         "ideal_timeframes": [
@@ -262,7 +262,7 @@
     },
     "PG": {
         "name": "The Procter & Gamble Company",
-        "ideal_ris": [
+        "ideal_risk": [
             "low"
         ],
         "ideal_timeframes": [
@@ -271,7 +271,7 @@
     },
     "TMO": {
         "name": "Thermo Fisher Scientific Inc.",
-        "ideal_ris": [
+        "ideal_risk": [
             "low"
         ],
         "ideal_timeframes": [
@@ -280,7 +280,7 @@
     },
     "TSLA": {
         "name": "Tesla, Inc.",
-        "ideal_ris": [
+        "ideal_risk": [
             "high"
         ],
         "ideal_timeframes": [
@@ -289,7 +289,7 @@
     },
     "UNH": {
         "name": "UnitedHealth Group Incorporated",
-        "ideal_ris": [
+        "ideal_risk": [
             "low"
         ],
         "ideal_timeframes": [
@@ -298,7 +298,7 @@
     },
     "V": {
         "name": "Visa Inc.",
-        "ideal_ris": [
+        "ideal_risk": [
             "low"
         ],
         "ideal_timeframes": [
@@ -307,7 +307,7 @@
     },
     "WFC": {
         "name": "Wells Fargo & Company",
-        "ideal_ris": [
+        "ideal_risk": [
             "medium"
         ],
         "ideal_timeframes": [
@@ -316,7 +316,7 @@
     },
     "WMT": {
         "name": "Walmart Inc.",
-        "ideal_ris": [
+        "ideal_risk": [
             "low"
         ],
         "ideal_timeframes": [
@@ -325,7 +325,7 @@
     },
     "XOM": {
         "name": "Exxon Mobil Corporation",
-        "ideal_ris": [
+        "ideal_risk": [
             "low"
         ],
         "ideal_timeframes": [

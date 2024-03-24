@@ -26,7 +26,7 @@ with open('tickers.txt') as infile:
                 term = 'long'
             ticker_info[ticker] = {
                 'name': tickerInfo['longName'],
-                'ideal_ris': [risk],
+                'ideal_risk': [risk],
                 'ideal_timeframes': [term]
             }
         except Exception as e:
