@@ -173,7 +173,10 @@ def getTickers():
 	for ticker in data:
 		ticker_data = data[ticker]
 		if risk in ticker_data['risk'] and timeframe in ticker_data['timeframe']:
-			valid_tickers.append({ticker: ticker_data['name']})
+			valid_tickers.append({
+				"ticker": ticker,
+				"name": ticker_data['name']
+			})
 	return valid_tickers
 	
 
