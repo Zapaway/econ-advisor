@@ -48,7 +48,8 @@ ticker_fact_sheet = "Annual Dividend Yield: 6% ($13/share); EPS: -$0.02"
 
 @app.route("/summarize")
 def summarize():
-	return summarizeText(ticker_fact_sheet)
+
+	return summarizeText(request.args["text"])
 
 @app.route('/getTickers')
 def getTickers():
