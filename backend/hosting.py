@@ -3,6 +3,8 @@ from flask import request
 import json
 from urllib.request import Request, urlopen
 from bs4 import BeautifulSoup
+import requests
+import os 
 
 app = Flask(__name__)
 
@@ -21,9 +23,6 @@ def getNewsData(ticker):
 		print(f"Title: {article_title} Link: {article_link}")
 
 def getJawandArticle(ticker:str):
-	import requests
-	import os 
-
 	url = f"https://yahoo-finance127.p.rapidapi.com/news/{ticker.lower()}"
 	headers = {
 		"X-RapidAPI-Key": os.environ["X-RapidAPI-Key"],
@@ -47,10 +46,23 @@ def getJawandArticle(ticker:str):
 		articleData.append((article_url, article_text))
 	return articleData # (url, title)
 
-aaplArticles = getJawandArticle("AAPL")
-print(len(aaplArticles))
-for idx in range(len(aaplArticles)):
-	print(f"Article {idx+1}: {aaplArticles[idx]}")
+def getArticleData(ticker):
+	url = f"https://yahoo-finance127.p.rapidapi.com/news/{ticker.lower()}"
+	print(os.environ["X-RapidAPI-Key"])
+	headers = {
+		"X-RapidAPI-Key": os.environ["X-RapidAPI-Key"],
+		"X-RapidAPI-Host": "yahoo-finance127.p.rapidapi.com"
+	}
+	response = requests.get(url, headers=headers)
+	data = response.json()
+	with open(f'res/news_data/{ticker}.json', 'w') as f:
+		json.dump(data, f, indent=2)
+
+with open('res/tickers.txt', 'r') as f:
+	tickers = f.read().split('\n')
+	for ticker in tickers:
+		getArticleData(ticker)
+		sleep(1)
 
 def getJawandStats(ticker:str):
 	return_str = ""
