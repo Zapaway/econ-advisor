@@ -161,11 +161,11 @@ def getTickers():
 	risk = request.args['risk']
 	timeframe = request.args['timeframe']
 	data = json.load(open('res/all_stocks.json', 'r'))
-	valid_tickers = []
+	valid_tickers = {}
 	for ticker in data:
 		ticker_data = data[ticker]
 		if risk in ticker_data['risk'] and timeframe in ticker_data['timeframe']:
-			valid_tickers.append(ticker)
+			valid_tickers[ticker] = ticker_data['name']
 	return valid_tickers
 	
 
