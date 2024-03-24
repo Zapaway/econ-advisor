@@ -32,13 +32,25 @@ def getJawandArticle(ticker:str):
 	response = requests.get(url, headers=headers)
 	data = response.json()
 
+	articleData = []
 	for key in data:
 		article_url = data[key]['link']
-		print(article_url)
+		# get text
+		article_text = ""
+		req = Request(article_url, headers={'User-Agent': 'Mozilla/5.0'})
+		page = urlopen(req)
+		response = page.read().decode("utf-8")
+		soup = BeautifulSoup(response, 'html.parser')
+		paragraphs = soup.find_all('p')
+		for paragraph in paragraphs:
+			article_text += paragraph.text + " "
+		articleData.append((article_url, article_text))
+	return articleData # (url, title)
 
-	# return url, text
-
-# getJawandArticle("AAPL")
+aaplArticles = getJawandArticle("AAPL")
+print(len(aaplArticles))
+for idx in range(len(aaplArticles)):
+	print(f"Article {idx+1}: {aaplArticles[idx]}")
 
 def getJawandStats(ticker:str):
 	return_str = ""
@@ -61,7 +73,7 @@ def getJawandStats(ticker:str):
 	return return_str
 
 # print(getJawandStats("AAPL"))
-print(getJawandStats("META"))
+# print(getJawandStats("META"))
 
 @app.route('/getTickers')
 def getTickers():

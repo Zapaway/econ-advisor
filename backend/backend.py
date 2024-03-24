@@ -8,7 +8,9 @@ from flask_cors import CORS, cross_origin
 import json
 import vertexai
 from vertexai.language_models import TextGenerationModel
-
+import requests
+from urllib.request import Request, urlopen
+from bs4 import BeautifulSoup
 
 def getBlurb(
 	ticker:str,
@@ -60,8 +62,33 @@ def summarizeText(text_to_summarize):
 	# Finally, we can print the generated summary
 	return (tokenizer.decode(output[0], skip_special_tokens=True), sentiment_result)
 	# Generated Output: Saudi bank to pay a 3.5% premium to Samba share price. Gulf region’s third-largest lender will have total assets of $220 billion
+
 def getJawandArticle(ticker:str):
-	return ""
+	import requests
+	import os 
+
+	url = f"https://yahoo-finance127.p.rapidapi.com/news/{ticker.lower()}"
+	headers = {
+		"X-RapidAPI-Key": os.environ["X-RapidAPI-Key"],
+		"X-RapidAPI-Host": "yahoo-finance127.p.rapidapi.com"
+	}
+	response = requests.get(url, headers=headers)
+	data = response.json()
+
+	articleData = []
+	for key in data:
+		article_url = data[key]['link']
+		# get text
+		article_text = ""
+		req = Request(article_url, headers={'User-Agent': 'Mozilla/5.0'})
+		page = urlopen(req)
+		response = page.read().decode("utf-8")
+		soup = BeautifulSoup(response, 'html.parser')
+		paragraphs = soup.find_all('p')
+		for paragraph in paragraphs:
+			article_text += paragraph.text + " "
+		articleData.append((article_url, article_text))
+	return articleData # (url, title)
 
 def getJawandStats(ticker:str):
 	return_str = ""
