@@ -4,6 +4,7 @@ from sentence_transformers import SentenceTransformer
 import streamlit as st
 from transformers import pipeline
 import request 
+import json
 
 def summarizeText(text_to_summarize):
 	MAX_OUTPUT_TOKENS = 64
@@ -53,6 +54,12 @@ def summarize():
 def getTickers():
 	risk = request.form['risk']
 	timeframe = request.form['timeframe']
+	data = json.load('all_stocks.json')
+	valid_tickers = []
+	for ticker in data:
+		if risk in ticker['risk'] and timeframe in ticker['timeframe']:
+			valid_tickers.append(ticker)
+	return valid_tickers
 	
 
 summarizer_model_name = "human-centered-summarization/financial-summarization-pegasus"
