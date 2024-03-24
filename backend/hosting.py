@@ -36,7 +36,32 @@ def getJawandArticle(ticker:str):
 		article_url = data[key]['link']
 		print(article_url)
 
-getJawandArticle("AAPL")
+	# return url, text
+
+# getJawandArticle("AAPL")
+
+def getJawandStats(ticker:str):
+	return_str = ""
+
+	with open(f'res/company_info/{ticker}.json', 'r') as f:
+		data = json.load(f)
+		# if 'longName' and 'longBusinessSummary' in data:
+			# return_str += f"{data['longName']} is a company that {data['longBusinessSummary']}."
+		if 'longName' in data:
+			return_str += f"{data['longName']} is a company with the following conditions: "
+		if 'dividendYield' in data and 'dividendRate' in data:
+			return_str += f"It has a dividend yield of {data['dividendYield']} and a dividend rate of {data['dividendRate']}. "
+		if 'trailingEps' in data and 'forwardEps' in data and 'pegRatio' in data:
+			return_str += f"It has a trailing EPS of {data['trailingEps']}, a forward EPS of {data['forwardEps']}, and a P/E ratio of {data['pegRatio']}. "
+		if 'marketCap' in data:
+			return_str += f"It has a market cap of {data['marketCap']}. "
+		if 'totalDebt' in data and 'debtToEquity' in data:
+			return_str += f"It has a total debt of {data['totalDebt']} and a debt to equity ratio of {data['debtToEquity']}."
+	
+	return return_str
+
+# print(getJawandStats("AAPL"))
+print(getJawandStats("META"))
 
 @app.route('/getTickers')
 def getTickers():
