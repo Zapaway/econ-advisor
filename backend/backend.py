@@ -160,7 +160,7 @@ def blurb():
 	stats = getJawandStats(ticker)
 	summArticle, links = combineArticles(articleTuples)
 	generatedBlurb = getBlurb(ticker, investor, stats, summArticle)
-	return generatedBlurb
+	return [generatedBlurb, links]
 
 
 @app.route('/getTickers')
