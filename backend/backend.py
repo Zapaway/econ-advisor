@@ -160,7 +160,7 @@ def blurb():
 	stats = getJawandStats(ticker)
 	summArticle, links = combineArticles(articleTuples)
 	generatedBlurb = getBlurb(ticker, investor, stats, summArticle)
-	return generatedBlurb
+	return [generatedBlurb, links]
 
 
 @app.route('/getTickers')
@@ -173,7 +173,7 @@ def getTickers():
 	for ticker in data:
 		ticker_data = data[ticker]
 		if risk in ticker_data['risk'] and timeframe in ticker_data['timeframe']:
-			valid_tickers.append(ticker)
+			valid_tickers.append({ticker: ticker_data['name']})
 	return valid_tickers
 	
 
