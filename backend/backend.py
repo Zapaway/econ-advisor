@@ -38,8 +38,6 @@ from flask_cors import CORS, cross_origin
 import json
 import vertexai
 from vertexai.language_models import TextGenerationModel
-import requests
-import os
 from urllib.request import Request, urlopen
 from bs4 import BeautifulSoup
 
@@ -94,16 +92,13 @@ def summarizeText(text_to_summarize, MAX_OUTPUT_TOKENS=128):
 	# Generated Output: Saudi bank to pay a 3.5% premium to Samba share price. Gulf region’s third-largest lender will have total assets of $220 billion
 
 def getJawandArticle(ticker:str):
-	url = f"https://yahoo-finance127.p.rapidapi.com/news/{ticker.lower()}"
-	headers = {
-		"X-RapidAPI-Key": os.environ["X-RapidAPI-Key"],
-		"X-RapidAPI-Host": "yahoo-finance127.p.rapidapi.com"
-	}
-	response = requests.get(url, headers=headers)
-	data = response.json()
-
+	with open(f'res/news_data/{ticker}.json', 'r') as f:
+		data = json.load(f)
+		
 	articleData = []
-	for key in data:
+	for idx, key in enumerate(data):
+		if idx > 2:
+			break
 		article_url = data[key]['link']
 		# get text
 		article_text = ""
