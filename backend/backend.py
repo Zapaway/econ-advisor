@@ -3,7 +3,7 @@ import predictionguard as pg
 from sentence_transformers import SentenceTransformer
 import streamlit as st
 from transformers import pipeline
-import request 
+import requests
 import json
 
 def summarizeText(text_to_summarize):
@@ -52,12 +52,13 @@ def summarize():
 
 @app.route('/getTickers')
 def getTickers():
-	risk = request.form['risk']
-	timeframe = request.form['timeframe']
-	data = json.load('all_stocks.json')
+	risk = request.args['risk']
+	timeframe = request.args['timeframe']
+	data = json.load(open('res/all_stocks.json', 'r'))
 	valid_tickers = []
 	for ticker in data:
-		if risk in ticker['risk'] and timeframe in ticker['timeframe']:
+		ticker_data = data[ticker]
+		if risk in ticker_data['risk'] and timeframe in ticker_data['timeframe']:
 			valid_tickers.append(ticker)
 	return valid_tickers
 	
